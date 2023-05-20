@@ -1,0 +1,3 @@
+files:
+  - source: '*.js'
+    translation: '%language%.%file_extension%'
