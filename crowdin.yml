@@ -1,0 +1,3 @@
+files:
+  - source: source.js
+    translation: /%two_letters_code%.%file_extension%
