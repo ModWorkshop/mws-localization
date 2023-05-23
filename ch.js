@@ -191,7 +191,7 @@ export default {
     hide: '隐藏',
     random: '随机',
     welcome_to_mws: '欢迎访问ModWorkshop！',
-    mws_short_about: "An open platform that provides the means to create and share mods, tools and ideas for games.",
+    mws_short_about: 'An open platform that provides the means to create and share mods, tools and ideas for games.',
     expired: '过期',
     select_placeholder: '选择...',
     made_with_love: '由{luffy}用❤制作',
