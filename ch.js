@@ -44,7 +44,7 @@ export default {
     game_category: '游戏/类别',
     likes: '喜欢',
     load_more: '加载更多...',
-    search: '搜索',
+    search: '搜索...',
     user: '用户',
     mod: 'Mod',
     all: '全部',
