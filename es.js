@@ -44,7 +44,7 @@ Si piensas que {0} esta rompiendo las reglas, puedes reportarlo al equipo de mod
     game_category: 'Juego/Categoria',
     likes: 'Me gusta',
     load_more: 'Cargar Mas...',
-    search: 'Buscar',
+    search: 'Buscar...',
     user: 'Usuarior',
     mod: 'Mod',
     all: 'Todos',
