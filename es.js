@@ -191,7 +191,7 @@ Si piensas que {0} esta rompiendo las reglas, puedes reportarlo al equipo de mod
     hide: 'Esconder',
     random: 'Al Azar',
     welcome_to_mws: '¡Bienvenido a ModWorkshop!',
-    mws_short_about: "An open platform that provides the means to create and share mods, tools and ideas for games.",
+    mws_short_about: 'An open platform that provides the means to create and share mods, tools and ideas for games.',
     expired: 'Expirado',
     select_placeholder: 'Seleccionar...',
     made_with_love: 'Hecho con ❤ por {luffy}',
