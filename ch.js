@@ -31,7 +31,7 @@ export default {
     images: '图片',
     type: '类型',
     wiki: 'Wiki',
-    discord: 'Test',
+    discord: 'Discord',
     support_us: '赞助我们',
     support_mws: '赞助ModWorkshop',
     rules: '规则',
