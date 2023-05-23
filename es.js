@@ -237,7 +237,7 @@ Si piensas que {0} esta rompiendo las reglas, puedes reportarlo al equipo de mod
     offsite_mod: 'Mod fuera del sitio.',
     dependencies: 'Dependencias',
     optional: 'Opcional',
-    outdated_notice: `⚠ El fuego se ha declarado como des-actualizado! <br>
+    outdated_notice: `⚠ El fuego se ha declarado como des-actualizado!
 Este mod puede que no funcione como el autor lo ah intencionado, puede ocasionar crashes y bugs.`,
     transfer_request: `El Autor del Mod a solicitado una transferencia de su pertenencia a la tuya.
 Si aceptas, este mod estara bajo tu nombre, incluyendo la responsabilidad de que tu mod se apegue a nuestras reglas.

@@ -237,7 +237,7 @@ export default {
     offsite_mod: '站外模组',
     dependencies: '依赖模组',
     optional: '可选模组',
-    outdated_notice: `⚠ 此模组被标记为过时的模组 <br>
+    outdated_notice: `⚠ 此模组被标记为过时的模组
 这意味着模组可能无法发挥作者所描述的功能并可能导致意料之外的崩溃或错误。`,
     transfer_request: `模组作者已向您发起模组所有权转移请求
 如果接受，该模组将归您所有，包括让其符合我们规则的责任。
