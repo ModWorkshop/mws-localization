@@ -91,7 +91,7 @@
     "error_rejected": "This mod has been rejected and cannot be accessed.",
     "error_unapproved": "This mod is waiting for approval. Please check again later.",
     "error_409": "This resource already exists.",
-    "error_404": "This resource does not exist. It may have been already deleted.",
+    "error_404": "This resource does not exist. It may have already been deleted.",
     "error_403": "You don't have permissions to do this action.",
     "error_403_banned": "Banned users cannot do this action!",
     "error_403_unactivated": "Please activate your account before doing this action!",
