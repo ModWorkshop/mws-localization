@@ -231,7 +231,7 @@
     "offsite_mod": "Off-site Mod",
     "dependencies": "Abhängigkeiten",
     "optional": "Optional",
-    "outdated_notice": "⚠ Mod wurde als veraltet markiert! <br>\nDiese Mod funktioniert eventuell nicht wie vom Autor vorgesehen und könnte bugs oder crashes verursachen.",
+    "outdated_notice": "⚠ Mod wurde als veraltet markiert! \nDiese Mod funktioniert eventuell nicht wie vom Autor vorgesehen und könnte bugs oder crashes verursachen.",
     "transfer_request": "Der Autor möchte diese Mod auf dich übertragen.\nSolltest du zustimmst, wird diese Mod unter deinem Namen laufen, einschließlich die Verantwortung dass die Mod unseren Regeln entspricht.\nFalls der Autor diese Anfrage mit böswilliger Absicht gesendet hat, kannst du ablehnen und die Mod oder den Autor melden.",
     "downloading_file": "Lade Dateien runter...",
     "downloading_file_should": "Der Download sollte in kürze beginnen.",
