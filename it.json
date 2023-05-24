@@ -22,7 +22,7 @@
     "threads": "Discussioni",
     "users": "Utenti",
     "report": "Segnala",
-    "report_desc": "\nIf you think this {0} is breaking our rules, you can report that to us and a moderator will check it out as soon as possible.\nMass or false flagging will not be tolerated!\n",
+    "report_desc": "\nSe credi che {0} stia infrangendo le nostre regole, puoi segnalarlo. Un moderatore  si prenderà cura del caso il prima possibile.\nSegnalazioni false o per motivi non adeguati non saranno tollerate!\n",
     "submit": "Submit",
     "images": "Images",
     "type": "Type",
