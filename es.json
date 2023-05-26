@@ -418,7 +418,6 @@
     "reset_password": "Resetear Contraseña",
     "invalid_user": "Usuario Invalido",
     "api_access_checkbox": "Lei los terminos de Servicio detallados {here}.",
-    "generate_api_key": "Generar clave de API",
     "your_api_key": "Tu clave de API",
     "no_users_found": "¡No se encontraron usuarios!",
     "banned": "Suspendido",
