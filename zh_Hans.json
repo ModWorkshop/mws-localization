@@ -417,7 +417,6 @@
     "dont_have_account": "还没有账号？在这里注册一个。",
     "reset_password": "重置密码",
     "invalid_user": "无效用户",
-    "api_access_desc": "玩模组充满着乐趣,那么当你以一种不一样的方式更新你的模组会选择什么呢？\n当然是API了！\n\n在此你可以生成自己的API密钥，要注意生成新的密钥会自动将旧密钥作废。\n",
     "api_access_checkbox": "我已阅读了这些服务条款概述→{here}.",
     "generate_api_key": "生成API密钥",
     "your_api_key": "你的API密钥",

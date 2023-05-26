@@ -417,7 +417,6 @@
     "dont_have_account": "Don't have an account? Create one here.",
     "reset_password": "Resetear Contraseña",
     "invalid_user": "Usuario Invalido",
-    "api_access_desc": "Los Mods son divertidos y todo, ¿Pero que pasara cuando quieras implementar una forma de actualizar tus mods?¿Y como?\nA travez de la API por supuesto!\n\nGenere aqui tu propia API key, generar una nueva API key invalidara la anterior.\n",
     "api_access_checkbox": "Lei los terminos de Servicio detallados {here}.",
     "generate_api_key": "Generar clave de API",
     "your_api_key": "Tu clave de API",
