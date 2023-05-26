@@ -1,3 +1,3 @@
 
 
-export default defineI18nLocale(async () => $fetch(`/owoified-en.json`));
+export default defineI18nLocale(async () => await $fetch(`/owoified-en.json`));
