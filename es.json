@@ -551,5 +551,6 @@
     "allow_cookies": "Permitir Cookies",
     "disallow_cookies": "No Permitir Cookies",
     "cookies_banner": "Usamos Cookies 🍪",
-    "cookies_banner_desc": "Usamos Cookies para mejorar tu experiencia. ¿Nos permitis guardarlas?"
+    "cookies_banner_desc": "Usamos Cookies para mejorar tu experiencia. ¿Nos permitis guardarlas?",
+    "api_access_tab": "API Access"
 }

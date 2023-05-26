@@ -551,5 +551,6 @@
     "allow_cookies": "允许Cookies",
     "disallow_cookies": "拒绝Cookies",
     "cookies_banner": "我们需要使用Cookies 🍪",
-    "cookies_banner_desc": "我们需要使用Cookies来提升您的浏览体验，可以请您允许我们储存它们吗？"
+    "cookies_banner_desc": "我们需要使用Cookies来提升您的浏览体验，可以请您允许我们储存它们吗？",
+    "api_access_tab": "API Access"
 }
