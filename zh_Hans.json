@@ -551,5 +551,6 @@
     "cookies_banner_desc": "我们需要使用Cookies来提升您的浏览体验，可以请您允许我们储存它们吗？",
     "api_access_tab": "API Access",
     "api_access_desc": "Mods are fun and all, but what happens once you want to implement some way of updating your mod?\nVia the API of course!\n\nHere you can generate your own API key, do note that generating a new one will void the old one.\n",
-    "generate_api_key": "Generate API Key"
+    "generate_api_key": "Generate API Key",
+    "your_api_key": "Your API Key"
 }
