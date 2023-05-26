@@ -551,5 +551,6 @@
     "cookies_banner": "Мы Используем Куки 🍪",
     "cookies_banner_desc": "Мы используем файлы cookie, чтобы улучшить ваш пользовательский опыт. Вы позволите нам их хранить?",
     "api_access_tab": "API Access",
-    "api_access_desc": "Mods are fun and all, but what happens once you want to implement some way of updating your mod?\nVia the API of course!\n\nHere you can generate your own API key, do note that generating a new one will void the old one.\n"
+    "api_access_desc": "Mods are fun and all, but what happens once you want to implement some way of updating your mod?\nVia the API of course!\n\nHere you can generate your own API key, do note that generating a new one will void the old one.\n",
+    "generate_api_key": "Generate API Key"
 }
