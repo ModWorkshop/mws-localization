@@ -551,5 +551,6 @@
     "disallow_cookies": "No Permitir Cookies",
     "cookies_banner": "Usamos Cookies 🍪",
     "cookies_banner_desc": "Usamos Cookies para mejorar tu experiencia. ¿Nos permitis guardarlas?",
-    "api_access_tab": "API Access"
+    "api_access_tab": "API Access",
+    "api_access_desc": "Mods are fun and all, but what happens once you want to implement some way of updating your mod?\nVia the API of course!\n\nHere you can generate your own API key, do note that generating a new one will void the old one.\n"
 }
