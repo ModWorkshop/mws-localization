@@ -418,7 +418,6 @@
     "reset_password": "重置密码",
     "invalid_user": "无效用户",
     "api_access_checkbox": "我已阅读了这些服务条款概述→{here}.",
-    "your_api_key": "你的API密钥",
     "no_users_found": "未找到玩家！",
     "banned": "被封禁",
     "personal_mods": "个人模组",

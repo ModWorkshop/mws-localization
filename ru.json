@@ -418,7 +418,6 @@
     "reset_password": "Сброс пароля",
     "invalid_user": "Недействительный пользователь",
     "api_access_checkbox": "Я прочитал условия обслуживания, изложенные {here}.",
-    "your_api_key": "Ваш API Ключ",
     "no_users_found": "Не Найдено Пользователей!",
     "banned": "Заблокирован",
     "personal_mods": "Личные Моды",

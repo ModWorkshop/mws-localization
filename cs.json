@@ -418,7 +418,6 @@
     "reset_password": "Reset Password",
     "invalid_user": "Invalid User",
     "api_access_checkbox": "I read the terms of service outlined {here}.",
-    "your_api_key": "Your API Key",
     "no_users_found": "No Users Found!",
     "banned": "Banned",
     "personal_mods": "Personal Mods",

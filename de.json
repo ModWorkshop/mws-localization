@@ -418,7 +418,6 @@
     "reset_password": "Passwort zurücksetzen",
     "invalid_user": "Ungültiger Nutzer",
     "api_access_checkbox": "Ich habe die Nutzungsbedingungen gelesen {here}.",
-    "your_api_key": "Dein API Key",
     "no_users_found": "Keine Nutzer gefunden!",
     "banned": "Gebannt",
     "personal_mods": "Persönliche Mods",
