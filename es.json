@@ -85,7 +85,7 @@
     "page_error_403": "No tienes permiso para ver esta pagina",
     "page_error_403_banned": "Usuarios bloqueados no pueden ver esta pagina",
     "page_error_403_unactivated": "Usuarios desactivados no pueden ver esta pagina",
-    "error_500": "Error de Servidor. Por favor contacte a un administrador",
+    "error_500": "Error de Servidor. Por favor contacte a un administrador.",
     "error_502": "No se puede acceder al servidor, Por favor espera e intenta nuevamente.",
     "error_suspended": "Esta Mod esta suspendido y no puede ser accedido.",
     "error_rejected": "This mod has been rejected and cannot be accessed.",
