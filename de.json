@@ -379,7 +379,6 @@
     "display_name": "Anzeige Name",
     "email": "Email",
     "accounts_desc": "Verbinde Accounts von unterstützten Diensten um dich damit anzumelden.",
-    "cannot_unlink_desc": "Entferne Verbundene Accounts von deinem ModWorkshop Account. Du wirst dich mit entfernten Accounts nicht mehr hier einloggen können.",
     "cannot_unlink_reason": "Um diesen Account zu entfernen musst du zuerst einen email und Passwort login einrichten, oder einen anderen Dienst verbinden.",
     "linked_time_ago": "Verbunden {time_ago}",
     "link": "Verbinden",

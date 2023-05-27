@@ -379,7 +379,6 @@
     "display_name": "Display Name",
     "email": "이메일",
     "accounts_desc": "Connect accounts from supported services in order to sign-in using them.",
-    "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
     "cannot_unlink_reason": "To unlink this account you must setup email and password or link a different service.",
     "linked_time_ago": "Linked {time_ago}",
     "link": "연결",

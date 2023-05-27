@@ -379,7 +379,6 @@
     "display_name": "Mostra Nome",
     "email": "Email",
     "accounts_desc": "Connetti gli account dai servizi supportati per accedere con questi ultimi.",
-    "cannot_unlink_desc": "'Questa azione scollegherà l'account dal tuo account ModWorkshop e non sarai più in grado di utilizzarlo per accedere'",
     "cannot_unlink_reason": "Per scollegare questo account devi impostare una email e una password oppure collegare un servizio differente.",
     "linked_time_ago": "Collegato {time_ago}",
     "link": "Collega",

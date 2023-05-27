@@ -379,7 +379,6 @@
     "display_name": "显示名字",
     "email": "电子邮箱",
     "accounts_desc": "使用支持关联的帐户来登录。",
-    "cannot_unlink_desc": "这将取消该账号与ModWorkshop账号的关联，你将无法使用此方式登录",
     "cannot_unlink_reason": "要取消关联此帐号，您必须设置电子邮箱和密码或关联不同的服务账号。",
     "linked_time_ago": "已关联 {time_ago}",
     "link": "关联",

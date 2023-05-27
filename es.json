@@ -379,7 +379,6 @@
     "display_name": "Mostrar tu nombre",
     "email": "E-Mail",
     "accounts_desc": "Conecta tu cuenta desde dispositivos compatibles para poder ingresar usandolos.",
-    "cannot_unlink_desc": "'Esto des-vinculara tu cuenta de tu  cuenta de Modworkshop y no podras usarla para ingresar aqui nunca mas'",
     "cannot_unlink_reason": "Para des-vincular tu cuenta primero deber crear un email y contraseña o vincular un servicio diferente.",
     "linked_time_ago": "Vinculado hace {time_ago}",
     "link": "Vincular",
