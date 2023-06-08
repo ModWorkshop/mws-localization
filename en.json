@@ -231,7 +231,7 @@
     "dependencies": "Dependencies",
     "optional": "Optional",
     "outdated_notice": "⚠ Mod was tagged as outdated! \nThe mod might not work as the author intended it to and might cause unwanted bugs or crashes.",
-    "transfer_request": "The author has sent a request to transfer the mod to you.\nIf you accept, the mod will be under your name, including the responsiblity of the mod fitting our rules.\nIf the author sent this request to you maliciously, you may decline the request and report the mod or author to the moderators.",
+    "transfer_request": "The author has sent a request to transfer the mod to you.\nIf you accept, the mod will be under your name, including the responsibility of the mod fitting our rules.\nIf the author sent this request to you maliciously, you may decline the request and report the mod or author to the moderators.",
     "downloading_file": "Downloading File...",
     "downloading_file_should": "The download should begin shortly.",
     "downloading_file_help": "How to Install",
