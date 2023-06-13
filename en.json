@@ -545,5 +545,6 @@
     "allow_cookies": "Allow Cookies",
     "disallow_cookies": "Disallow Cookies",
     "cookies_banner": "We Use Cookies 🍪",
-    "cookies_banner_desc": "We use cookies to improve your user experience. Will you allow us to store them?"
+    "cookies_banner_desc": "We use cookies to improve your user experience. Will you allow us to store them?",
+    "guests": "guests"
 }
