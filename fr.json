@@ -552,5 +552,6 @@
     "your_api_key": "Your API Key",
     "api_access_checkbox": "I read the terms of service outlined {here}.",
     "custom_duration": "Custom",
-    "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'"
+    "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
+    "guests": "guests"
 }
