@@ -91,7 +91,7 @@
     "error_rejected": "Tento mód byl zamítnut a nelze k němu získat přístup.",
     "error_unapproved": "Tento mód čeká na schválení. Zkuste to znovu později.",
     "error_409": "This resource already exists.",
-    "error_404": "This resource does not exist. It my have been already deleted.",
+    "error_404": "This resource does not exist. It may have been already deleted.",
     "error_403": "K provedení této akce nemáte oprávnění.",
     "error_403_banned": "Zakázaní uživatelé nemohou tuto akci provést!",
     "error_403_unactivated": "Před provedením této akce prosím aktivujte svůj účet!",
