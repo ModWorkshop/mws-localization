@@ -555,5 +555,5 @@
     "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
     "guests": "Guests",
     "return_to_replies": "Return to Replies",
-    "error_429": "You're being rate limited. Please try again later."
+    "error_429": "您操作的太快了，请过会儿再尝试操作。"
 }
