@@ -507,7 +507,7 @@
     "instructions_template": "Instructions Template",
     "upgrade_user": "Upgrade User",
     "upgrade": "Upgrade",
-    "could_not_upgrade_user": "'Could not upgrade user. Perhaps they already have membership?'",
+    "could_not_upgrade_user": "Could not upgrade user. Perhaps they already have membership?",
     "stop_supporter_status": "Stop supporter status of user?",
     "stop_supporter_status_desc": "You should do this only if the user got refunded or asked for it!",
     "reported_by": "Reported By",

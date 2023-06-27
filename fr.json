@@ -553,5 +553,7 @@
     "api_access_checkbox": "I read the terms of service outlined {here}.",
     "custom_duration": "Custom",
     "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
-    "guests": "Invités"
+    "guests": "Invités",
+    "error_429": "You're being rate limited. Please try again later.",
+    "return_to_replies": "Return to Replies"
 }
