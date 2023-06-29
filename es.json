@@ -505,7 +505,7 @@
     "instructions_template": "Plantilla de instrucciones",
     "upgrade_user": "Mejorar Usuario",
     "upgrade": "Mejorar",
-    "could_not_upgrade_user": "'No ha podido mejorar al usuairo. ¿Puede que ya tenga membresia?'",
+    "could_not_upgrade_user": "No has podido mejorar al usuario. ¿Es posible que ya tenga membresía?",
     "stop_supporter_status": "¿Remover el estado donador del usuario?",
     "stop_supporter_status_desc": "¡Solo debes hacer esto si el usuario pidio un reembolso o pidió cancelar la membresia!",
     "reported_by": "Reportado por",
@@ -556,5 +556,5 @@
     "guests": "Invitados",
     "error_429": "Ha realizado demasiadas peticiones. Por favor inténtalo más tarde.",
     "return_to_replies": "Volver a las respuestas",
-    "browse_mods": "Browse Mods"
+    "browse_mods": "Buscar Mods"
 }
