@@ -555,5 +555,6 @@
     "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
     "guests": "Invitados",
     "error_429": "Ha realizado demasiadas peticiones. Por favor inténtalo más tarde.",
-    "return_to_replies": "Volver a las respuestas"
+    "return_to_replies": "Volver a las respuestas",
+    "browse_mods": "Browse Mods"
 }
