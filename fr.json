@@ -111,8 +111,8 @@
     "forum": "Forum",
     "reply": "Répondre",
     "replies_n": "une réponse | {n} réponses",
-    "editing": "Editing",
-    "replying": "Replying",
+    "editing": "Édition",
+    "replying": "Répondre",
     "read_all_replies": "Lire Toutes Les Réponses",
     "comments": "Commentaires",
     "replies": "Réponses",
@@ -370,7 +370,7 @@
     "private_profile_desc": "Ticking this on will make your profile private. Only moderators will be able to view it.",
     "invisible": "Invisible",
     "invisible_desc": "Hides your online status",
-    "bio": "Bio",
+    "bio": "Biographie",
     "bio_desc": "Tell about yourself to people visiting your profile",
     "show_tag_role": "Role Tag",
     "show_tag_supporter_or_role": "Supporter Tag (Role fallback)",
@@ -554,7 +554,7 @@
     "custom_duration": "Custom",
     "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
     "guests": "Invités",
-    "error_429": "You're being rate limited. Please try again later.",
+    "error_429": "Votre taux est limité. Veuillez réessayer plus tard.",
     "return_to_replies": "Return to Replies",
     "browse_mods": "Browse Mods"
 }
