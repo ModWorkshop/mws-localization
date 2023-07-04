@@ -416,7 +416,7 @@
     "reset_password": "Restablecer Contraseña",
     "invalid_user": "Usuario Inválido",
     "no_users_found": "¡No se encontraron usuarios!",
-    "banned": "Suspendido",
+    "banned": "Banneado",
     "personal_mods": "Mods Personales",
     "collab_mods": "Mods Colaborados",
     "password_reset_sent": "El enlace para restablecer tu contraseña ha sido enviado al correo electrónico dado si es que hay alguna cuenta asociado al mismo.",
