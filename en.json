@@ -311,6 +311,8 @@
     "label": "Label",
     "edit_member": "Edit Member",
     "clear_primary_download": "Clear Primary Download",
+    "reset_banner": "Reset Banner to Default",
+    "reset_thumbnail": "Reset Thumbnail to Default",
     "already_sent_transfer": "You've sent a transfer request to the user: {user}\nIf you wish to transfer it to a different person, or have changed your mind, cancel the request.\n",
     "transfer_keep_as_member": "Keep as member of level",
     "next": "Next",
