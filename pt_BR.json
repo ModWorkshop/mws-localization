@@ -557,5 +557,8 @@
     "return_to_replies": "Return to Replies",
     "error_429": "You're being rate limited. Please try again later.",
     "browse_mods": "Browse Mods",
-    "liked_mods": "Liked Mods"
+    "liked_mods": "Liked Mods",
+    "best_match": "Best Match",
+    "reset_banner": "Reset Banner to Default",
+    "reset_thumbnail": "Reset Thumbnail to Default"
 }

@@ -557,5 +557,8 @@
     "error_429": "Omezujeme Vaše počty hodnocení. Prosím, zkuste to později.",
     "return_to_replies": "Vrátit se do Odpovědí",
     "browse_mods": "Prohlížet módy",
-    "liked_mods": "Liked Mods"
+    "liked_mods": "Liked Mods",
+    "best_match": "Best Match",
+    "reset_banner": "Reset Banner to Default",
+    "reset_thumbnail": "Reset Thumbnail to Default"
 }

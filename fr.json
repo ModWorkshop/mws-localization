@@ -557,5 +557,8 @@
     "error_429": "Votre débit est limité. Veuillez réessayer plus tard.",
     "return_to_replies": "Retour aux Réponses",
     "browse_mods": "Parcourir les Mods",
-    "liked_mods": "Liked Mods"
+    "liked_mods": "Liked Mods",
+    "reset_banner": "Reset Banner to Default",
+    "reset_thumbnail": "Reset Thumbnail to Default",
+    "best_match": "Best Match"
 }

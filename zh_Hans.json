@@ -557,5 +557,8 @@
     "return_to_replies": "返回至回复",
     "error_429": "您操作的太快了，请过会儿再尝试操作。",
     "browse_mods": "浏览模组",
-    "liked_mods": "Liked Mods"
+    "liked_mods": "Liked Mods",
+    "best_match": "Best Match",
+    "reset_banner": "Reset Banner to Default",
+    "reset_thumbnail": "Reset Thumbnail to Default"
 }
