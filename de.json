@@ -556,5 +556,6 @@
     "guests": "Gäste",
     "error_429": "Deine Zugriffsrate ist limitiert. Bitte versuche es später.",
     "return_to_replies": "Zurück zu den Antworten",
-    "browse_mods": "Browse Mods"
+    "browse_mods": "Browse Mods",
+    "liked_mods": "Liked Mods"
 }
