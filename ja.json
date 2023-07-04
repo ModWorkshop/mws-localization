@@ -548,5 +548,6 @@
     "disallow_cookies": "拒否する",
     "cookies_banner": "このサイトはCookieを使用しています 🍪",
     "cookies_banner_desc": "当サイトでは、ユーザーの皆様の体験を向上させるためにCookieを使用しています。Cookieの保存を許可しますか？",
-    "guests": "現在閲覧しているゲスト数"
+    "guests": "現在閲覧しているゲスト数",
+    "liked_mods": "Liked Mods"
 }

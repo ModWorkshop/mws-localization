@@ -556,5 +556,6 @@
     "guests": "Invitados",
     "error_429": "Has realizado demasiadas peticiones. Por favor inténtalo más tarde.",
     "return_to_replies": "Volver a las Respuestas",
-    "browse_mods": "Explorar Mods"
+    "browse_mods": "Explorar Mods",
+    "liked_mods": "Liked Mods"
 }

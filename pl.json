@@ -556,5 +556,6 @@
     "guests": "Guests",
     "error_429": "You're being rate limited. Please try again later.",
     "return_to_replies": "Return to Replies",
-    "browse_mods": "Browse Mods"
+    "browse_mods": "Browse Mods",
+    "liked_mods": "Liked Mods"
 }
