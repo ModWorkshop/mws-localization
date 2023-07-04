@@ -264,7 +264,7 @@
     "send_for_approval": "Send for Approval",
     "send_for_approval_desc": "\nSome mods like music mods, or mods that contain music need to be approved before they're fully published. \nSome categories force this option.",
     "mod_waiting": "The mod is waiting for approval",
-    "mod_waiting_desc": "The mod will be inivisible until it will be approved by a moderator. Make sure the mod satisfies our rules.",
+    "mod_waiting_desc": "The mod will be invisible until it will be approved by a moderator. Make sure the mod satisfies our rules.",
     "mod_rejected": "The mod has been rejected!",
     "mod_rejected_desc": "The mod has been rejected due to not conforming to our rules. For example: not including sources for music, copyrighted music.",
     "approve": "Approve",
