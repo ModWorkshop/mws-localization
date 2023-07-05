@@ -505,7 +505,7 @@
     "instructions_template": "模块说明",
     "upgrade_user": "升级用户",
     "upgrade": "升级",
-    "could_not_upgrade_user": "'无法升级用户。也许他已经是会员了？'",
+    "could_not_upgrade_user": "无法升级用户。也许已经是会员了？",
     "stop_supporter_status": "取消用户的支持者状态？",
     "stop_supporter_status_desc": "只有当收到用户退款或用户要求退款时，你才应该这样做！",
     "reported_by": "举报自：",
@@ -553,12 +553,12 @@
     "api_access_checkbox": "I read the terms of service outlined {here}.",
     "custom_duration": "Custom",
     "cannot_unlink_desc": "'This will unlink the account from your ModWorkshop account and you will not be able to use it to login to this account anymore'",
-    "guests": "Guests",
+    "guests": "游客",
     "return_to_replies": "返回至回复",
     "error_429": "您操作的太快了，请过会儿再尝试操作。",
     "browse_mods": "浏览模组",
-    "liked_mods": "Liked Mods",
-    "best_match": "Best Match",
-    "reset_banner": "Reset Banner to Default",
-    "reset_thumbnail": "Reset Thumbnail to Default"
+    "liked_mods": "喜欢的模组",
+    "best_match": "最佳匹配",
+    "reset_banner": "重置为默认的横幅",
+    "reset_thumbnail": "重置为默认的封面"
 }
