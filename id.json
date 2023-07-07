@@ -387,7 +387,7 @@
     "unique_name_desc": "Nama unik untuk profil dan orang yang menyebutkan Anda.",
     "display_name": "Nama yang Ditunjukkan",
     "email": "Email",
-    "accounts_desc": "Hubungkan akun dari layanan yang didukung untuk sign-in menggunakan layanan tersebut.",
+    "accounts_desc": "Hubungkan akun dari layanan yang didukung untuk masuk menggunakan layanan tersebut.",
     "cannot_unlink_reason": "Untuk memutuskan akun ini Anda harus menetapkan email dan kata kunci atau berhubungan dengan layanan lain.",
     "linked_time_ago": "Terhubung {time_ago}",
     "unlink": "Putuskan",
