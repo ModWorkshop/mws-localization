@@ -477,7 +477,7 @@
     "unban": "Unban",
     "ban_user": "Ban User",
     "suspended": "Suspended",
-    "mod_suspended": "Ce mod à été suspendu et est uniquement visible par le créateur, membres ayant participé au Mod et Modérateurs.\nLa suspension est temporaire ou permanente, en fonction de la gravité. Veuillez lire nos {règles}.\nSi vous souhaitez contacter les modérateurs pour obtenir des informations, ou si votre mod a été mis à jour pour respecter les règles, vous pouvez envoyer un appel de suspension dans le {forum}.\n\nRaison de la suspension : \"{reason}\"",
+    "mod_suspended": "Ce mod à été suspendu et est uniquement visible par le créateur, membres ayant participé au Mod et Modérateurs.\nLa suspension est temporaire ou permanente, en fonction de la gravité. Veuillez lire nos {reason}.\nSi vous souhaitez contacter les modérateurs pour obtenir des informations, ou si votre mod a été mis à jour pour respecter les règles, vous pouvez envoyer un appel de suspension dans le {forum}.\n\nRaison de la suspension : \"{reason}\"",
     "private_threads": "Private Threads",
     "role_policies": "Role Policies",
     "game_role_policies": "Game Role Policies",
