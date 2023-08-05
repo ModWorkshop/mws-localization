@@ -25,6 +25,7 @@
     "report_desc": "\nIf you think this {0} is breaking our rules, you can report that to us and a moderator will check it out as soon as possible.\nMass or false flagging will not be tolerated!\n",
     "submit": "Submit",
     "images": "Images",
+    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
     "type": "Type",
     "wiki": "Wiki",
     "discord": "Discord",
@@ -440,6 +441,7 @@
     "pending_email": "You've requested to change your email to: {0}. Please check your inbox for the verification link.",
     "game_preferences": "Game Preferences",
     "game_buttons": "Menu Buttons",
+    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
     "webhook_url": "Discord Webhook URL",
     "short_name": "Short Name",
     "games_hosted": "We host {n} games as of now.",
@@ -552,5 +554,7 @@
     "disallow_cookies": "Disallow Cookies",
     "cookies_banner": "We Use Cookies 🍪",
     "cookies_banner_desc": "We use cookies to improve your user experience. Will you allow us to store them?",
-    "guests": "Guests"
+    "guests": "Guests",
+    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
+    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}."
 }
