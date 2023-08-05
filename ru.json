@@ -560,5 +560,9 @@
     "liked_mods": "Понравившиеся моды",
     "best_match": "Лучшие",
     "reset_banner": "Сбросить баннер по умолчанию",
-    "reset_thumbnail": "Сбросить миниатюру по умолчанию"
+    "reset_thumbnail": "Сбросить миниатюру по умолчанию",
+    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
+    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
+    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
+    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi"
 }
