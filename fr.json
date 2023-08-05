@@ -560,5 +560,9 @@
     "liked_mods": "Mods Likés",
     "reset_banner": "Remettre La Bannière A Zéro",
     "reset_thumbnail": "Remettre La Miniature A Zéro",
-    "best_match": "Meilleure Correspondance"
+    "best_match": "Meilleure Correspondance",
+    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
+    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
+    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
+    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}."
 }
