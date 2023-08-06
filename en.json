@@ -256,6 +256,7 @@
     "private": "Private",
     "hidden": "Hidden",
     "return_to_mod": "Return to Mod Page",
+    "return_to_thread": "Return to Thread",
     "url": "URL",
     "owner": "Owner",
     "mod_request": "You have been invited to become one of the members of this mod with the following role: {0}.\nIf you accept, you will be able to contribute to the mod and edit its content.\nDo note however, that all members with editing permissions including the owner are responsible for the mod.",
