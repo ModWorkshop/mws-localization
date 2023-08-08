@@ -535,7 +535,7 @@
     "color_scheme_cookie_desc": "Barevné schéma této stránky.",
     "displaymode_cookie_desc": "Změní uživatelské rozhraní seznamu módů na jedno z následujících: mřížka, tabulka nebo tabulka bez náhledových obrázků.",
     "theme_cookie_desc": "Momentální vzhled stránky. Světlá nebo tmavá.",
-    "allow_cookies_cookie_desc": "Potřebná cookie k zajištění, že Vám již nebudeme ukazovat banner na cookies poté co povolíte či odmítnete cookies.",
+    "allow_cookies_cookie_desc": "Potřebná cookie k zajištění, že Vám již nebudeme ukazovat prapor na cookies poté co povolíte či odmítnete cookies.",
     "hidden_announcements_cookie_desc": "Sbírka identifikací oznámení, které si můžete vybrat ke schování. Toto jim zabrání, aby se ukázala znovu.",
     "login_cookies": "Cookies z přihlášení a z relace",
     "login_cookies_desc": "Používáme několik různých cookies, abychom Vás udrželi přihlášené a ochránili Váš účet. \nJsou nutné, pokud se chcete přihlásit a zůstat přihlášení.",
@@ -561,9 +561,9 @@
     "best_match": "Nejlepší shoda",
     "reset_banner": "Resetovat banner na původní",
     "reset_thumbnail": "Resetovat náhledový obrázek na původní",
-    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
-    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
-    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
-    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
-    "return_to_thread": "Return to Thread"
+    "images_help": "Doporučená velikost pro miniatury je 600x300 pixelů a pro bannery zase 1550x250 pixelů.",
+    "game_buttons_desc": "Umožňuje přidat vlastní tlačítka pro herní navigační panel. Formát: název tlačítka{'|'}odkaz{'|'}ikona,název2{'|'}odkaz2,... ikona je dobrovolná. Dostupné ikony můžete vidět zde: https://icones.js.org/collection/mdi",
+    "user_avatar_desc": "Doporučený rozměr je 150x150. Maximální velikost souboru: {size}.",
+    "user_banner_desc": "Doporučený rozměr je 1550x300. Maximální velikost souboru: {size}.",
+    "return_to_thread": "Vrátit se k Vláknu"
 }
