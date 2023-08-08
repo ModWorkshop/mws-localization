@@ -561,9 +561,9 @@
     "best_match": "Mejor Coincidencia",
     "reset_banner": "Restablecer Banner a Predeterminado",
     "reset_thumbnail": "Restablecer Miniatura a Predeterminado",
-    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
-    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
-    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
-    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
-    "return_to_thread": "Return to Thread"
+    "images_help": "El tamaño recomendado es de 600x300 píxeles para las miniaturas y 1550x250 para los banners.",
+    "game_buttons_desc": "Te permite añadir botones personalizados a la barra de navegación del juego. Formato: {'|'}enlace{'|'}ícono,{'|'}nombre2{'|'}enlace2,... El ícono es opcional. Puedes ver los íconos disponibles aquí: https://icones.js.org/collection/mdi",
+    "user_avatar_desc": "El tamaño recomendado es de 150x150. Tamaño mázimo: {size}.",
+    "user_banner_desc": "El tamaño recomendado es de 1550x300. El tamaño máximo es: {size}.\nRecommended size of 1550x300. Max file size: {size}.",
+    "return_to_thread": "Volver al Hilo"
 }
