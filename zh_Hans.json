@@ -561,9 +561,9 @@
     "best_match": "最佳匹配",
     "reset_banner": "重置为默认的横幅",
     "reset_thumbnail": "重置为默认的封面",
-    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
-    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
-    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
-    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
-    "return_to_thread": "Return to Thread"
+    "images_help": "封面推荐使用600x300像素的图片，横幅推荐使用1550x250像素的图片。",
+    "user_avatar_desc": "推荐大小：150x150。最大文件大小：{size}。",
+    "user_banner_desc": "推荐大小：1550x300。最大文件大小： {size}。",
+    "game_buttons_desc": "让你为游戏导航栏添加一个自定义的按钮。格式：按钮名字{'|'}链接{'|'}图标，名字2{'|'}链接2，...图标是可选项。你可以从这里了解到可用的图标https://icones.js.org/collection/mdi",
+    "return_to_thread": "返回至主题"
 }
