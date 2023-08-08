@@ -159,7 +159,7 @@
     "never": "Never",
     "title": "タイトル",
     "name": "名前",
-    "view": "View",
+    "view": "閲覧",
     "are_you_sure": "本当にいいですか？",
     "irreversible_action": "この操作は取り消せません！",
     "something_went_wrong": "問題が発生しました",
@@ -550,12 +550,12 @@
     "cookies_banner_desc": "当サイトでは、ユーザーの皆様の体験を向上させるためにCookieを使用しています。Cookieの保存を許可しますか？",
     "guests": "現在閲覧しているゲスト数",
     "liked_mods": "Liked Mods",
-    "best_match": "Best Match",
+    "best_match": "最も関連するもの",
     "reset_banner": "Reset Banner to Default",
     "reset_thumbnail": "Reset Thumbnail to Default",
     "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
     "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
     "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
-    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
+    "images_help": "推奨サイズは、サムネイルは600x300px、バナーは1550x250pxです。",
     "return_to_thread": "Return to Thread"
 }
