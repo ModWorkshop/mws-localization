@@ -561,9 +561,9 @@
     "reset_banner": "Remettre La Bannière A Zéro",
     "reset_thumbnail": "Remettre La Miniature A Zéro",
     "best_match": "Meilleure Correspondance",
-    "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
-    "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
-    "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
-    "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
-    "return_to_thread": "Return to Thread"
+    "images_help": "Taille recommandée de 600x300 pixels pour les miniatures et de 1550x250 pixels pour les bannieres",
+    "game_buttons_desc": "Vous laisse ajouter des boutons personnalisés a la barre de navigation du jeu. Format: bouton nom{'|'}lien{'|'}icone,nom2{'|'}lien2,... l'icone est optionnelle. vous pouvez voir les icones disponibles ici: https://icones.js.org/collection/mdi",
+    "user_avatar_desc": "Taille recommandée de 150x150. taille de fichier maximum: {size}.",
+    "user_banner_desc": "Taille recommandée de 1550x300. Taille de fichier maximum: {size}.",
+    "return_to_thread": "Retourner au fil"
 }
