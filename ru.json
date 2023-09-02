@@ -565,5 +565,8 @@
     "user_banner_desc": "Рекомендуемый размер 1550x300. Максимальный размер файла: {size}.",
     "images_help": "Рекомендуемый размер - 600x300 пикселей для миниатюр и 1550x250 пикселей для баннеров.",
     "game_buttons_desc": "Позволяет добавлять свои кнопки для навигационной панели игры. Формат: button name{'|'}link{'|'}icon,name2{'|'}link2,... иконка необязательна. Доступные иконки можно посмотреть здесь: https://icones.js.org/collection/mdi",
-    "return_to_thread": "Вернуться к Теме"
+    "return_to_thread": "Вернуться к Теме",
+    "deleted": "(Deleted)",
+    "impressum": "Impressum",
+    "mws_build_version": "ModWorkshop Build {version}"
 }

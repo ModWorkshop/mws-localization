@@ -565,5 +565,8 @@
     "game_buttons_desc": "Te permite añadir botones personalizados a la barra de navegación del juego. Formato: {'|'}enlace{'|'}ícono,{'|'}nombre2{'|'}enlace2,... El ícono es opcional. Puedes ver los íconos disponibles aquí: https://icones.js.org/collection/mdi",
     "user_avatar_desc": "El tamaño recomendado es de 150x150. Tamaño mázimo: {size}.",
     "user_banner_desc": "El tamaño recomendado es de 1550x300. El tamaño máximo es: {size}.",
-    "return_to_thread": "Volver al Hilo"
+    "return_to_thread": "Volver al Hilo",
+    "deleted": "(Deleted)",
+    "mws_build_version": "ModWorkshop Build {version}",
+    "impressum": "Impressum"
 }

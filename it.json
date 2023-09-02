@@ -565,5 +565,8 @@
     "game_buttons_desc": "Permette di aggiungere dei tasti custom per la navbar del gioco. Formato: button name{'|'}link{'|'}icon,name2{'|'}link2,... (icon è opzionale). Per vedere tutte le icone disponibili visita: https://icones.js.org/collection/mdi",
     "user_avatar_desc": "Raccomandiamo una dimensione di 150x150. Dimensione massima del file: {size}.",
     "user_banner_desc": "Raccomandiamo una dimensione di 1550x300. Dimensione massima del file: {size}.",
-    "return_to_thread": "Ritorna alla discussione"
+    "return_to_thread": "Ritorna alla discussione",
+    "deleted": "(Deleted)",
+    "impressum": "Impressum",
+    "mws_build_version": "ModWorkshop Build {version}"
 }

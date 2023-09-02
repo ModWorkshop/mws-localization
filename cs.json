@@ -565,5 +565,8 @@
     "game_buttons_desc": "Umožňuje přidat vlastní tlačítka pro herní navigační panel. Formát: název tlačítka{'|'}odkaz{'|'}ikona,název2{'|'}odkaz2,... ikona je dobrovolná. Dostupné ikony můžete vidět zde: https://icones.js.org/collection/mdi",
     "user_avatar_desc": "Doporučený rozměr je 150x150. Maximální velikost souboru: {size}.",
     "user_banner_desc": "Doporučený rozměr je 1550x300. Maximální velikost souboru: {size}.",
-    "return_to_thread": "Vrátit se k Vláknu"
+    "return_to_thread": "Vrátit se k Vláknu",
+    "deleted": "(Deleted)",
+    "impressum": "Impressum",
+    "mws_build_version": "ModWorkshop Build {version}"
 }

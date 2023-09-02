@@ -565,5 +565,8 @@
     "user_avatar_desc": "推荐大小：150x150。最大文件大小：{size}。",
     "user_banner_desc": "推荐大小：1550x300。最大文件大小： {size}。",
     "game_buttons_desc": "让你为游戏导航栏添加一个自定义的按钮。格式：按钮名字{'|'}链接{'|'}图标，名字2{'|'}链接2，...图标是可选项。你可以从这里了解到可用的图标https://icones.js.org/collection/mdi",
-    "return_to_thread": "返回至主题"
+    "return_to_thread": "返回至主题",
+    "deleted": "(Deleted)",
+    "impressum": "Impressum",
+    "mws_build_version": "ModWorkshop Build {version}"
 }
