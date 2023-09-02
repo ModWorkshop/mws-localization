@@ -559,5 +559,6 @@
     "guests": "Guests",
     "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
     "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
-    "impressum": "Impressum"
+    "impressum": "Impressum",
+    "mws_build_version": "ModWorkshop Build {version}"
 }
