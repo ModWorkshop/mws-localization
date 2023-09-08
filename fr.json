@@ -566,7 +566,7 @@
     "user_avatar_desc": "Taille recommandée de 150x150. taille de fichier maximum : {size}.",
     "user_banner_desc": "Taille recommandée de 1550x300. Taille de fichier maximum : {size}.",
     "return_to_thread": "Retourner au fil",
-    "deleted": "(Deleted)",
+    "deleted": "(Supprimé)",
     "impressum": "Impressum",
     "mws_build_version": "ModWorkshop Build {version}"
 }
