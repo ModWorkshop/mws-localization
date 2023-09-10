@@ -356,7 +356,7 @@
     "sso_only_warning": "Social Login Only!",
     "sso_only_warning_desc": "You don't have an email or password set and so you won't be able to sign in without social login. It is recommended that you setup an email and password!",
     "private_profile_notice": "This profile is private",
-    "follow_with_notifs": "Follow and get notified for new mods",
+    "follow_with_notifs": "Follow with notifications",
     "support_user": "Support User",
     "hiding_mods_view": "You've hid the user's mods. Do you wish to view their mods?",
     "blocked_user_view": "You've blocked this user. Do you wish to view their profile?",
