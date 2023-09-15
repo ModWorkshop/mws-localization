@@ -567,5 +567,6 @@
     "about_mws_values_desc": "**🔍 Open Source Modding** - We think modding should be open source, not closed source. There is no point to modding if mods are not available for others to tinker with.\r\nAdditionally, There are [plans](https://modworkshop.net/thread/9025) to open source the site.\r\n\r\n**😉 No Account Requirement** - Downloading mods should not require an account.\r\n**🚀 No Throttling** - You should be able to download mods at full speed without any artificial throttling.\r\n\r\n**🫂 Community Driven**- The site is open for the community to contribute with moderators being volunteers helping in their free time.\r\n\r\n**🕵️ Privacy** -  We don't sell user data or collect unnecessary information.",
     "our_team": "Our Team",
     "more": "More",
-    "translation_site": "Translations"
+    "translation_site": "Translations",
+    "category_desc": "A category for the mod, make sure to set it to one that makes the most sense."
 }
