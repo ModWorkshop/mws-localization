@@ -230,6 +230,7 @@
     "show_download_link": "Show Download Link",
     "downloads_alert": "No Files or Links",
     "downloads_alert_desc": "If a mod does not have files or links, the mod is invisible to the public.",
+    "category_desc": "A category for the mod, make sure to set it to one that makes the most sense.",
     "share": "Share",
     "instructions": "Instructions",
     "offsite_mod": "Off-site Mod",
