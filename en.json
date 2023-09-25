@@ -561,7 +561,6 @@
     "user_avatar_desc": "Recommended size of 150x150. Max file size: {size}.",
     "user_banner_desc": "Recommended size of 1550x300. Max file size: {size}.",
     "impressum": "Impressum",
-    "mws_build_version": "ModWorkshop Build {version}",
     "about_mws": "About ModWorkshop",
     "about_mws_desc": "ModWorkshop is a platform for sharing and downloading mods for various games. Working together as a community to create tools, guides and more.\r\n\r\nIn 2013, we began as LastBullet, the number one platform for PAYDAY modding.\r\nAs development continued, we rebranded as ModWorkshop. We wanted to expand our range of possibility into other games, rather than exclusively to the PAYDAY franchise. \r\nToday, we host mods for multiple games such as PAYDAY 2, PAYDAY: The Heist, Noita, Enter the Gungeon, and more!\r\nTogether, we've brought modders, fans, and newcomers to the modding field, to communicate with each other and discuss together.\r\n\r\nWe absolutely love modding, and if you want to host any mod for any game, feel free to do so!",
     "about_mws_values": "Values",
