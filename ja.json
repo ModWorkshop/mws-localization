@@ -568,5 +568,10 @@
     "our_team": "我々のチーム",
     "more": "もっと見る",
     "translation_site": "翻訳",
-    "category_desc": "MODのカテゴリーは、最も適当であるものに設定してください。"
+    "category_desc": "MODのカテゴリーは、最も適当であるものに設定してください。",
+    "delete_user": "Delete User",
+    "delete_user_desc": "In order to delete your account please fill the following form:",
+    "delete_user_warn": "Deleting accounts is a permanent action and cannot be undone! Only do it if you are 100% sure.",
+    "delete_user_checkbox": "I am aware that my account will be deleted forever",
+    "display_mode": "Display Mode"
 }

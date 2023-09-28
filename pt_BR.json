@@ -576,5 +576,10 @@
     "our_team": "Our Team",
     "more": "More",
     "translation_site": "Translations",
-    "category_desc": "A category for the mod, make sure to set it to one that makes the most sense."
+    "category_desc": "A category for the mod, make sure to set it to one that makes the most sense.",
+    "delete_user": "Delete User",
+    "delete_user_desc": "In order to delete your account please fill the following form:",
+    "delete_user_warn": "Deleting accounts is a permanent action and cannot be undone! Only do it if you are 100% sure.",
+    "delete_user_checkbox": "I am aware that my account will be deleted forever",
+    "display_mode": "Display Mode"
 }
