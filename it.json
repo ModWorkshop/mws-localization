@@ -54,8 +54,8 @@
     "search_users_matching": "Utenti Trovati \"{0}\"",
     "search_threads_matching": "Discussioni Trovate \"{0}\"",
     "search_threads": "Cerca Discussioni",
-    "search_threads_game": "{1} Discussioni",
-    "search_threads_game_matching": "{1} Discussioni Trovate \"{0}\"",
+    "search_threads_game": "Discussioni su {1}",
+    "search_threads_game_matching": "Discussioni su {1} Trovate \"{0}\"",
     "comments_disabled": "I commenti sono stati disabilitati; Solo il creatore della mod, i membri e i moderatori possono commentare.",
     "popularity": "Popolarità",
     "popular_today": "Popolari Oggi",
@@ -584,5 +584,5 @@
     "display_mode": "Modalità di visualizzazione",
     "sort_by": "Ordina per",
     "like_mod": "Metti mi piace alla mod",
-    "mod_game_count": "{n} {game} Mods"
+    "mod_game_count": "{n} Mod per {game}"
 }
