@@ -581,5 +581,7 @@
     "delete_user_desc": "In order to delete your account please fill the following form:",
     "delete_user_warn": "Deleting accounts is a permanent action and cannot be undone! Only do it if you are 100% sure.",
     "delete_user_checkbox": "I am aware that my account will be deleted forever",
-    "display_mode": "Display Mode"
+    "display_mode": "Display Mode",
+    "sort_by": "Sort By",
+    "like_mod": "Like Mod"
 }
