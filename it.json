@@ -583,5 +583,6 @@
     "delete_user_checkbox": "Sono consapevole che il mio account sarà cancellato per sempre",
     "display_mode": "Modalità di visualizzazione",
     "sort_by": "Ordina per",
-    "like_mod": "Metti mi piace alla mod"
+    "like_mod": "Metti mi piace alla mod",
+    "mod_game_count": "{n} {game} Mods"
 }
