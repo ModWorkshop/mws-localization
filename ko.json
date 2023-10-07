@@ -570,9 +570,9 @@
     "mws_build_version": "ModWorkshop Build {version}",
     "deleted": "(삭제됨)",
     "about_mws": "ModWorkshop에 대해서",
-    "about_mws_values": "가치",
-    "about_mws_desc": "ModWorkshop is a platform for sharing and downloading mods for various games. Working together as a community to create tools, guides and more.\r\n\r\nIn 2013, we began as LastBullet, the number one platform for PAYDAY modding.\r\nAs development continued, we rebranded as ModWorkshop. We wanted to expand our range of possibility into other games, rather than exclusively to the PAYDAY franchise. \r\nToday, we host mods for multiple games such as PAYDAY 2, PAYDAY: The Heist, Noita, Enter the Gungeon, and more!\r\nTogether, we've brought modders, fans, and newcomers to the modding field, to communicate with each other and discuss together.\r\n\r\nWe absolutely love modding, and if you want to host any mod for any game, feel free to do so!",
-    "about_mws_values_desc": "**🔍 Open Source Modding** - We think modding should be open source, not closed source. There is no point to modding if mods are not available for others to tinker with.\r\nAdditionally, There are [plans](https://modworkshop.net/thread/9025) to open source the site.\r\n\r\n**😉 No Account Requirement** - Downloading mods should not require an account.\r\n**🚀 No Throttling** - You should be able to download mods at full speed without any artificial throttling.\r\n\r\n**🫂 Community Driven**- The site is open for the community to contribute with moderators being volunteers helping in their free time.\r\n\r\n**🕵️ Privacy** -  We don't sell user data or collect unnecessary information.",
+    "about_mws_values": "가치관",
+    "about_mws_desc": "모드 워크샵은 다양한 게임들의 모드를 공유하고 다운로드하는 플랫폼입니다. 커뮤니티로서 함께 협력하고 도구, 가이드 등을 만들어보세요.\n\n2013년, 저희는 LastBullet을 시작으로 최고의 PAYDAY 모딩 플랫폼이 되었습니다.\n개발이 계속되면서, 저희는 ModWorkshop으로 이름을 바꾸었습니다. 저희는 PAYDAY 프랜차이즈뿐만 아니라 다른 게임으로의 가능성을 확장하고 싶었습니다.\n오늘날 저희는 PAYDAY 2, PAYDAY: The Heist, Noita, Enter the Gungeon 과 같은, 그리고 더 많은 게임들의 모드를 호스팅 합니다.\n다함께, 저희는 모딩분야의 모더들, 팬들, 그리고 신규 사용자를 불러들여 서로 소통하고 함께 토론하였습니다.\n\n저희는 정말로 모딩을 좋아합니다. 만약 당신이 어떤 게임이든 모드를 호스팅 하고 싶다면, 자유롭게 그렇게 하세요!",
+    "about_mws_values_desc": "**🔍 오픈 소스 모딩** - 저희는 모딩이 비공개 소스가 아닌 오픈 소스여야 한다고 생각합니다. 만약 다른 사람이 모드를 수정할 수 없다면 모딩을 할 필요가 없습니다.\n추가적으로, 여기에 사이트를 오픈소스 할 [계획](https://modworkshop.net/thread/9025)이 있습니다.\n\n**😉 계정을 요구하지 않음** - 모드 다운로드는 계정을 요구하지 않아야 합니다.\n**🚀 제한 없음** - 당신은 인위적인 제한 없이 모드를 최고 속도로 다운받을 수 있어야 합니다.\n\n**🫂 커뮤니티 중심** - 이 사이트는 커뮤니티가 여가시간에 도움을 주는 자원봉사 모더레이터로 참여하여 할 수 있도록 개방되어 있습니다.\n\n**🕵️ 개인정보 보호** - 저희는 사용자의 데이터를 판매하거나, 불필요한 정보를 수집하지 않습니다.",
     "our_team": "저희의 팀원들",
     "more": "더보기",
     "translation_site": "번역",
@@ -580,9 +580,9 @@
     "delete_user": "계정 삭제",
     "delete_user_desc": "당신의 계정을 삭제하려면 다음 양식을 따라주세요:",
     "delete_user_checkbox": "나는 내 계정이 영원히 삭제될 것을 알고 있습니다.",
-    "display_mode": "Display Mode",
+    "display_mode": "보기 모드",
     "delete_user_warn": "계정 삭제는 영구적인 작업이며 취소할 수 없습니다! 100% 확신하는 경우에만 실행하세요.",
     "sort_by": "Sort By",
     "like_mod": "Like Mod",
-    "mod_game_count": "{n} {game} Mods"
+    "mod_game_count": "{n}개의 {game} 모드"
 }
