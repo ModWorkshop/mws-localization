@@ -477,6 +477,7 @@
     "can_appeal": "Can Appeal (Allows the user to post in some forum categories)",
     "case_is_ban": "This case is a ban. Deleting will also cancel the ban.",
     "webhook_url_desc": "Whenever a new mod is published to here, the site will call this webhook (Generally Discord)",
+    "approval_only": "Approval Only",
     "approval_only_desc": "Whether or not mods uploaded to this category need to first be approved by a moderator",
     "parent_category": "Parent Category",
     "url_name": "URL Name",
