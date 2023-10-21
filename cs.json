@@ -584,5 +584,6 @@
     "delete_user_warn": "Deleting accounts is a permanent action and cannot be undone! Only do it if you are 100% sure.",
     "sort_by": "Sort By",
     "like_mod": "Like Mod",
-    "mod_game_count": "{n} {game} Mods"
+    "mod_game_count": "{n} {game} Mods",
+    "approval_only": "Approval Only"
 }

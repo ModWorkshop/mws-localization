@@ -584,5 +584,6 @@
     "delete_user_warn": "계정 삭제는 영구적인 작업이며 취소할 수 없습니다! 100% 확신하는 경우에만 실행하세요.",
     "sort_by": "Sort By",
     "like_mod": "Like Mod",
-    "mod_game_count": "{n}개의 {game} 모드"
+    "mod_game_count": "{n}개의 {game} 모드",
+    "approval_only": "Approval Only"
 }

@@ -584,5 +584,6 @@
     "display_mode": "Display Mode",
     "sort_by": "Sort By",
     "like_mod": "Like Mod",
-    "mod_game_count": "{n} {game} Mods"
+    "mod_game_count": "{n} {game} Mods",
+    "approval_only": "Approval Only"
 }
