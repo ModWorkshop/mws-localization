@@ -584,5 +584,6 @@
     "display_mode": "展示模式",
     "sort_by": "排序方法",
     "like_mod": "喜欢的模组",
-    "mod_game_count": "{n} {game} 模组"
+    "mod_game_count": "{n} {game} 模组",
+    "approval_only": "Approval Only"
 }
