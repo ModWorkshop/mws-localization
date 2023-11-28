@@ -530,7 +530,8 @@
     "issued": "Issued",
     "expires": "Expires",
     "delete_category_warning": "Are you sure you want to delete this category? \nThe mods will not be deleted and any category that belonged to it will have no parent category.\nOnly do this if you are 100% sure.\n",
-    "game_admin_page_desc": "This is the game admin page. It contains a bunch of things for game admins to do.",
+    "game_admin_page_desc": "The game admin page contains a few tools in order to configure and moderate the game.",
+    "admin_page_desc": "The admin page contains a few tools in order to configure and moderate the site.",
     "successfully_banned": "Successfully banned user!",
     "currently_supported": "Cool people that currently support us",
     "supporter_after_donating": "After donating, contact one of the moderators for a thank you.",
@@ -584,5 +585,10 @@
     "applied_global_mod_managers": "Applied Global Mod Managers",
     "applied_global_mod_managers_desc": "Global mod managers that should be applied to the game (as they are not automatically applied).",
     "disable_mod_managers": "Disable Mod Managers",
-    "disable_mod_managers_desc": "If this mod cannot be installed by a mod manager, you can disable the feature."
+    "disable_mod_managers_desc": "If this mod cannot be installed by a mod manager, you can disable the feature.",
+    "admin_at_a_glance": "At a Glance",
+    "last_bans": "Last Bans",
+    "last_suspensions": "Last Suspensions",
+    "last_cases": "Last Cases",
+    "last_reports": "Last Reports"
 }
