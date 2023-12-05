@@ -330,7 +330,6 @@
     "publish_mod": "Publish Mod",
     "finish": "Finish",
     "publish_mod_desc": "Your mod is not published yet. In order for others to see it, it must be published.",
-    "links_help": "Click on the plus button to add links",
     "upload_file": "File",
     "online": "Online",
     "offline": "Offline",
@@ -590,5 +589,14 @@
     "last_bans": "Last Bans",
     "last_suspensions": "Last Suspensions",
     "last_cases": "Last Cases",
-    "last_reports": "Last Reports"
+    "last_reports": "Last Reports",
+    "waiting_for_mod": "Waiting for mod to be submitted",
+    "waiting": "Waiting",
+    "updates": "Updates",
+    "edit_mod_tips_title": "Let's create a basic mod!",
+    "edit_mod_warns_title": "Notice",
+    "edit_mod_tip_1": "The most basic mod requires a name, description, game and a download.",
+    "edit_mod_tip_2": "Once you're happy with the mod, you can publish it. allowing people to view & download it.",
+    "edit_mod_warn_1": "In some cases, mods such as music mods require approval. If your mod contains music, send it for approval (Below)",
+    "edit_mod_warn_2": "You should be familiar with our rules, found {here}"
 }
