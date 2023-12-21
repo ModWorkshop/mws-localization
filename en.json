@@ -600,5 +600,7 @@
     "edit_mod_warn_1": "In some cases, mods such as music mods require approval. If your mod contains music, send it for approval (Below)",
     "edit_mod_warn_2": "You should be familiar with our rules, found {here}",
     "auto_subscribe_to_mod": "Auto-Subscribe to Mod Comments",
-    "auto_subscribe_to_thread": "Auto-Subscribe to Thread"
+    "auto_subscribe_to_thread": "Auto-Subscribe to Thread",
+    "mark_as_answer": "Mark as Answer",
+    "unmark_as_answer": "Unmark as Answer"
 }
