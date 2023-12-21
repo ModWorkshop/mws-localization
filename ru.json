@@ -610,5 +610,8 @@
     "admin_page_desc": "The admin page contains a few tools in order to configure and moderate the site.",
     "mod_managers": "Mod Managers",
     "mod_manager_install": "Mod Manager Install",
-    "default_mod_manager": "Default Mod Manager"
+    "default_mod_manager": "Default Mod Manager",
+    "mark_as_answer": "Mark as Answer",
+    "unmark_as_answer": "Unmark as Answer",
+    "thread_answer": "This reply was chosen as the answer for the post"
 }

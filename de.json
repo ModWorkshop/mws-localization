@@ -610,5 +610,8 @@
     "disable_mod_managers_desc": "If this mod cannot be installed by a mod manager, you can disable the feature.",
     "waiting_for_mod": "Waiting for mod to be submitted",
     "edit_mod_tip_1": "The most basic mod requires a name, description, game and a download.",
-    "auto_subscribe_to_thread": "Auto-Subscribe to Thread"
+    "auto_subscribe_to_thread": "Auto-Subscribe to Thread",
+    "mark_as_answer": "Mark as Answer",
+    "unmark_as_answer": "Unmark as Answer",
+    "thread_answer": "This reply was chosen as the answer for the post"
 }

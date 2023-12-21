@@ -610,5 +610,8 @@
     "auto_subscribe_to_mod": "Auto-Subscribe to Mod Comments",
     "auto_subscribe_to_thread": "Auto-Subscribe to Thread",
     "applied_global_mod_managers_desc": "Global mod managers that should be applied to the game (as they are not automatically applied).",
-    "edit_mod_tip_2": "Once you're happy with the mod, you can publish it. allowing people to view & download it."
+    "edit_mod_tip_2": "Once you're happy with the mod, you can publish it. allowing people to view & download it.",
+    "mark_as_answer": "Mark as Answer",
+    "unmark_as_answer": "Unmark as Answer",
+    "thread_answer": "This reply was chosen as the answer for the post"
 }

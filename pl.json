@@ -610,5 +610,8 @@
     "auto_subscribe_to_mod": "Auto-Subscribe to Mod Comments",
     "auto_subscribe_to_thread": "Auto-Subscribe to Thread",
     "admin_page_desc": "The admin page contains a few tools in order to configure and moderate the site.",
-    "default_mod_manager_desc": "The default mod manager for the game should be one that most have, otherwise the first one will be chosen."
+    "default_mod_manager_desc": "The default mod manager for the game should be one that most have, otherwise the first one will be chosen.",
+    "mark_as_answer": "Mark as Answer",
+    "unmark_as_answer": "Unmark as Answer",
+    "thread_answer": "This reply was chosen as the answer for the post"
 }

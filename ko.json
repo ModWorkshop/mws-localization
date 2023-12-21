@@ -610,5 +610,8 @@
     "admin_page_desc": "The admin page contains a few tools in order to configure and moderate the site.",
     "default_mod_manager_desc": "The default mod manager for the game should be one that most have, otherwise the first one will be chosen.",
     "waiting_for_mod": "Waiting for mod to be submitted",
-    "edit_mod_tip_2": "Once you're happy with the mod, you can publish it. allowing people to view & download it."
+    "edit_mod_tip_2": "Once you're happy with the mod, you can publish it. allowing people to view & download it.",
+    "mark_as_answer": "Mark as Answer",
+    "thread_answer": "This reply was chosen as the answer for the post",
+    "unmark_as_answer": "Unmark as Answer"
 }
