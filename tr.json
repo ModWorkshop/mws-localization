@@ -475,7 +475,7 @@
     "warn": "Warn",
     "ban": "Ban",
     "unban": "Unban",
-    "ban_user": "Ban User",
+    "ban_user": "Kullanıcıyı banla",
     "suspended": "Suspended",
     "mod_suspended": "This mod has been suspended and is only visible to the owner, mod members and moderators.\nThe suspension is either temporarily or permanent, depending on the severity. Please read our {rules}.\nShould you wish to contact the moderators for information, or if your mod has been updated to follow the rules, you can send a suspension appeal in the {forum}.\n\nReason for suspension: \"{reason}\"",
     "private_threads": "Private Threads",
