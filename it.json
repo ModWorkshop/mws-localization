@@ -613,5 +613,18 @@
     "edit_mod_tip_2": "Una volta che si è soddisfatti della mod, è possibile pubblicarla, consentendo alle persone di visualizzarla e scaricarla.",
     "mark_as_answer": "Segna come Risposta",
     "unmark_as_answer": "Rimuovi come Risposta",
-    "thread_answer": "Questo commento è stato scelto come risposta per il post"
+    "thread_answer": "Questo commento è stato scelto come risposta per il post",
+    "supporter_you_get": "By supporting us, you will receive",
+    "supporter_no_ads": "No Ads",
+    "supporter_custom_name_color": "Custom Name Color",
+    "supporter_via_nitro": "Support Us Via NitroPay",
+    "supporter_supporter_tag": "Supporter Tag",
+    "supporter_faq_q_1": "How do I receive the perks?",
+    "supporter_faq_q_2": "What is NitroPay?",
+    "supporter_faq_a_2": "NitroPay is ModWorkshop's current ad publisher. We use it to process support payments.",
+    "supporter_faq_q_3": "For how long do I get those perks?",
+    "supporter_just_support": "Wish to just support us?",
+    "login_required": "Login Required",
+    "supporter_faq_a_1": "After subscribing in NitroPay, you should be returned to this page.\nModWorkshop should automatically apply the perks to you.\nIf it's not applied automatically, please contact one of the staff members.",
+    "supporter_faq_a_3": "Durations are listed in the NitroPay site."
 }
