@@ -566,7 +566,7 @@
     "images_help": "Zalecany rozmiar 600x300 pixeli dla miniaturek i 1550x250 pixeli dla banerów.",
     "user_avatar_desc": "Zalecany rozmiar to 150x150. Maksymalny rozmiar pliku: {size}.",
     "return_to_thread": "Wróć do Wątku",
-    "deleted": "(Deleted)",
+    "deleted": "(Usunięto)",
     "impressum": "Impressum",
     "mws_build_version": "ModWorkshop Wersja {version}",
     "about_mws": "O ModWorkshop",
