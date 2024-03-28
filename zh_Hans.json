@@ -626,5 +626,6 @@
     "supporter_faq_a_3": "Durations are listed in the NitroPay site.",
     "supporter_just_support": "Wish to just support us?",
     "login_required": "Login Required",
-    "supporter_faq_a_1": "After subscribing in NitroPay, you should be returned to this page.\nModWorkshop should automatically apply the perks to you.\nIf it's not applied automatically, please contact one of the staff members."
+    "supporter_faq_a_1": "After subscribing in NitroPay, you should be returned to this page.\nModWorkshop should automatically apply the perks to you.\nIf it's not applied automatically, please contact one of the staff members.",
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
 }

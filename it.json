@@ -626,5 +626,6 @@
     "supporter_just_support": "Vuoi sostenerci?",
     "login_required": "Login Necessario",
     "supporter_faq_a_1": "Dopo esserti abbonato con NitroPay, dovresti ritornare a questa pagina.\nModWorkshop dovrebbe automaticamente darti i vantaggi da sostenitore.\nSe ciò non avviene automaticamente, per favore contatta un membro dello staff.",
-    "supporter_faq_a_3": "La durata è indicata nella pagina di NitroPay."
+    "supporter_faq_a_3": "La durata è indicata nella pagina di NitroPay.",
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
 }

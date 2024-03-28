@@ -626,5 +626,6 @@
     "supporter_just_support": "Vous voulez juste nous soutenir?",
     "supporter_you_get": "By supporting us, you will receive",
     "supporter_faq_a_1": "Apres s'etre abonné dans NitroPay, Vous devriez être redirigé sur cette page.\nModWorkshop devrais automatiquement vous appliquer les avantages.\nSi les avantages ne sont pas appliqués automatiquement, prière de contacter un membre du staff.",
-    "login_required": "Login Required"
+    "login_required": "Login Required",
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
 }

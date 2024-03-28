@@ -626,5 +626,6 @@
     "supporter_faq_q_3": "For how long do I get those perks?",
     "supporter_faq_a_3": "Durations are listed in the NitroPay site.",
     "supporter_just_support": "Wish to just support us?",
-    "login_required": "Login Required"
+    "login_required": "Login Required",
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
 }

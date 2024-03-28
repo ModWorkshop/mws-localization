@@ -626,5 +626,6 @@
     "supporter_via_nitro": "Support Us Via NitroPay",
     "supporter_faq_a_1": "After subscribing in NitroPay, you should be returned to this page.\nModWorkshop should automatically apply the perks to you.\nIf it's not applied automatically, please contact one of the staff members.",
     "supporter_faq_a_2": "NitroPay is ModWorkshop's current ad publisher. We use it to process support payments.",
-    "login_required": "Login Required"
+    "login_required": "Login Required",
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
 }

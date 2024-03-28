@@ -626,5 +626,6 @@
     "supporter_faq_q_3": "Na jak długo otrzymam te bonusy?",
     "supporter_faq_a_3": "Czasy trwania bonusów są pokazanie na stronie NitroPay.",
     "supporter_just_support": "Chcesz nas po prostu wspierać?",
-    "login_required": "Wymagane Logowanie"
+    "login_required": "Wymagane Logowanie",
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
 }
