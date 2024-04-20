@@ -627,5 +627,9 @@
     "supporter_faq_a_3": "Doby trvání jsou uvedeny na webu NitroPay.",
     "supporter_just_support": "Chcete nás jenom podpořit?",
     "login_required": "Je Vyžadováno Přihlášení",
-    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})",
+    "supporter_background": "Background (Supporters Only)",
+    "supporter_background_opacity": "Background Opacity",
+    "supporter_options": "Supporter Options",
+    "supporter_profile_mod_background": "Mod & Profile Background"
 }

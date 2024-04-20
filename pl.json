@@ -627,5 +627,9 @@
     "supporter_faq_a_3": "Czasy trwania bonusów są pokazanie na stronie NitroPay.",
     "supporter_just_support": "Chcesz nas po prostu wspierać?",
     "login_required": "Wymagane Logowanie",
-    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})",
+    "supporter_background": "Background (Supporters Only)",
+    "supporter_background_opacity": "Background Opacity",
+    "supporter_options": "Supporter Options",
+    "supporter_profile_mod_background": "Mod & Profile Background"
 }

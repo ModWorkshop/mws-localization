@@ -627,5 +627,9 @@
     "supporter_faq_a_3": "Die Pläne sind auf der NitroPay Seite aufgelistet.",
     "supporter_just_support": "Du möchtest uns einfach so nur unterstützen?",
     "login_required": "Login benötigt",
-    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})"
+    "supporter_extra_storage": "Extra Mod Storage (From {from} to {to})",
+    "supporter_background": "Background (Supporters Only)",
+    "supporter_background_opacity": "Background Opacity",
+    "supporter_options": "Supporter Options",
+    "supporter_profile_mod_background": "Mod & Profile Background"
 }
