@@ -631,5 +631,8 @@
     "supporter_profile_mod_background": "Mod & Profile Background",
     "supporter_background": "Background (Supporters Only)",
     "supporter_background_opacity": "Background Opacity",
-    "supporter_settings": "Supporter Options"
+    "supporter_settings": "Supporter Options",
+    "supporters_only": "(Supporters Only)",
+    "supporter_faq_q_4": "Is it subscription based? Can I donate once?",
+    "supporter_faq_a_4": "Normally, Nitro is subscription based, but you can always cancel to make a one time donation."
 }
