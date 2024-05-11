@@ -638,5 +638,6 @@
     "set_as_thumbnail": "Set as Thumbnail",
     "set_as_background": "Set as Background",
     "set_as_banner": "Set as Banner",
-    "image_is_visible": "Visible"
+    "image_is_visible": "Visible",
+    "options": "Options"
 }
