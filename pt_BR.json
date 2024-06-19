@@ -639,5 +639,10 @@
     "set_as_thumbnail": "Set as Thumbnail",
     "set_as_banner": "Set as Banner",
     "image_is_visible": "Visible",
-    "options": "Options"
+    "options": "Options",
+    "manager_site_url": "Site URL",
+    "manager_site_url_desc": "URL to the mod manager's site or place to get it from (Not implemented yet)",
+    "manager_download_url": "Download URL",
+    "manager_download_url_desc": "URL for handling download & installation of files of mods. Currently available parameters: :mod_id, :file_id, :game_id, :manager_name and :game_short_name.",
+    "status": "Status"
 }
