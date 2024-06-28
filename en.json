@@ -616,6 +616,7 @@
     "last_reports": "Last Reports",
     "waiting_for_mod": "Waiting for mod to be submitted",
     "waiting": "Waiting",
+    "file_waiting": "Waiting For Submission",
     "updates": "Updates",
     "edit_mod_tips_title": "Let's create a basic mod!",
     "edit_mod_warns_title": "Notice",
