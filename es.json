@@ -566,7 +566,7 @@
     "user_avatar_desc": "El tamaño recomendado es de 150x150. Tamaño mázimo: {size}.",
     "user_banner_desc": "El tamaño recomendado es de 1550x300. El tamaño máximo es: {size}.",
     "return_to_thread": "Volver al hilo",
-    "deleted": "(Borrado)",
+    "deleted": "(Eliminado)",
     "mws_build_version": "ModWorkshop Build {version}",
     "impressum": "Impressum",
     "about_mws": "Sobre ModWorkshop",
