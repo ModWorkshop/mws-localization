@@ -292,7 +292,7 @@
     "no_mods_found": "No se han encontrado mods :/",
     "visibility": "Visibilidad",
     "make_your_mod_discoverable": "Haz que tu mod sea más visible",
-    "error_fetching_mods": "Hubo un error al buscar mods",
+    "error_fetching_mods": "Se ha producido un error al buscar mods",
     "notify_owner_members": "Notificar al autor y sus miembros",
     "expires_t": "Expira en: {time}",
     "member_level_collaborator": "Colaborador",
