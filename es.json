@@ -645,5 +645,6 @@
     "manager_download_url": "Descargar dirección web",
     "manager_download_url_desc": "Dirección web para manejar la descarga e instalación de los archivos de los mods. Parámetros actualmente disponibles: :mod_id, :file_id, :game_id, :manager_name y :game_short_name.",
     "status": "Estado",
-    "file_waiting": "Esperando a que se envíe"
+    "file_waiting": "Esperando a que se envíe",
+    "clear": "Clear"
 }
