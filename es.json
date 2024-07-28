@@ -393,7 +393,7 @@
     "blocked_tags": "Etiquetas bloqueadas",
     "blocked_users": "Usuarios bloqueados",
     "block_tag": "Bloquear etiqueta",
-    "login_using_services": "O inicia sesión utilizando alguno de los siguientes",
+    "login_using_services": "O inicia sesión utilizando alguno de los siguientes servicios",
     "register_error_409": "¡El nombre único que elegiste ya está en uso!",
     "login_error_401": "El correo electrónico o la contraseña que ingresaste es incorrecto",
     "login_error_422": "El correo electrónico o la contraseña que ingresaste no es válido",
