@@ -647,5 +647,5 @@
     "manager_download_url_desc": "URL per gestire il download e l'installazione dei file delle mod. Parametri attualmente disponibili: :mod_id, :file_id, :game_id, :manager_name e :game_short_name.",
     "status": "Stato",
     "file_waiting": "In attesa dell'invio",
-    "clear": "Clear"
+    "clear": "Cancella"
 }
