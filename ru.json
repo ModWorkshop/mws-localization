@@ -646,5 +646,8 @@
     "manager_download_url_desc": "URL для обработки загрузки и установки файлов модов. Доступные параметры: :mod_id, :file_id, :game_id, :manager_name и :game_short_name.",
     "status": "Статус",
     "file_waiting": "Ожидание приостановки",
-    "clear": "Очистить"
+    "clear": "Очистить",
+    "user_replied_time_ago": "{user} Replied {timeAgo}",
+    "user_posted_in_forum_category": "{user} Posted {timeAgo} in {place}",
+    "user_posted": "{user} Posted {timeAgo}"
 }
