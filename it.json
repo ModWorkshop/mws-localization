@@ -650,5 +650,11 @@
     "clear": "Cancella",
     "user_replied_time_ago": "{user} Replied {timeAgo}",
     "user_posted_in_forum_category": "{user} Posted {timeAgo} in {place}",
-    "user_posted": "{user} Posted {timeAgo}"
+    "user_posted": "{user} Posted {timeAgo}",
+    "open": "Open",
+    "can_close_threads": "Can Close Threads",
+    "can_close_threads_help": "Allows threads to be in a closed state. Useful for feature requests or issues.",
+    "thread_closed": "Thread has been closed.",
+    "open_threads": "Open Threads",
+    "closed_threads": "Closed Threads"
 }
