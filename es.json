@@ -655,5 +655,6 @@
     "can_close_threads_help": "Permite que los hilos puedan ser cerrados. Útil para solicitudes de funciones o problemas.",
     "thread_closed": "Este hilo ha sido cerrado.",
     "open_threads": "Hilos abiertos",
-    "closed_threads": "Hilos cerrados"
+    "closed_threads": "Hilos cerrados",
+    "delete_file_desc": "This will delete the file. You will not be able to recover it!"
 }
