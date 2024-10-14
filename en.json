@@ -644,5 +644,6 @@
     "clear": "Clear",
     "user_replied_time_ago": "{user} Replied {timeAgo}",
     "user_posted_in_forum_category": "{user} Posted {timeAgo} in {place}",
-    "user_posted": "{user} Posted {timeAgo}"
+    "user_posted": "{user} Posted {timeAgo}",
+    "delete_file_desc": "This will delete the file. You will not be able to recover it!"
 }
