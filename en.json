@@ -123,6 +123,7 @@
     "archive": "Archive",
     "unarchive": "Unarchive",
     "lock": "Lock",
+    "move": "Move",
     "unlock": "Unlock",
     "open": "Open",
     "dark_theme": "Dark Theme",
@@ -645,5 +646,8 @@
     "user_replied_time_ago": "{user} Replied {timeAgo}",
     "user_posted_in_forum_category": "{user} Posted {timeAgo} in {place}",
     "user_posted": "{user} Posted {timeAgo}",
-    "delete_file_desc": "This will delete the file. You will not be able to recover it!"
+    "delete_file_desc": "This will delete the file. You will not be able to recover it!",
+    "developer_mode": "Developer Mode",
+    "developer_mode_help": "Enables some features for developers. For example testing mod managers before they are added globally.",
+    "grid_mode": "Grid Mode"
 }
