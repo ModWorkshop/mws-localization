@@ -571,7 +571,7 @@
     "impressum": "Impressum",
     "about_mws": "Sobre ModWorkshop",
     "about_mws_values": "Valores",
-    "about_mws_desc": "ModWorkshop es una plataforma para compartir y descargar mods para varios juegos. Trabajamos juntos como comunidad para crear herramientas, guías y más.\n\nEn 2013, comenzamos como LastBullet, la plataforma número uno para modding de PAYDAY.\nA medida que continuó el desarrollo, cambiamos nuestro nombre a ModWorkshop. Queríamos ampliar nuestro rango de posibilidades a otros juego, en lugar de limitarnos exclusivamente a la franquicia PAYDAY.\n¡A día de hoy tenemos mods para múltiples juegos como PAYDAY 2, PAYDAY: The Heist, Noita, Enter the Gungeon y más!\nJuntos, hemos reunido a modders, fans y recién llegados al campo del modding para que se comuniquen entre sí y debatan juntos.\n\nNos encantan los mods, y si deseas alojar algún mod para cualquier juego, ¡no dudes en hacerlo!",
+    "about_mws_desc": "ModWorkshop es una plataforma para compartir y descargar mods para varios juegos. Trabajamos juntos como comunidad para crear herramientas, guías y más.\n\nEn 2012, comenzamos bajo el nombre de \"The Team Mystery\", un grupo de modding conocido por crear \"Mission Mojave Mod\". Poco después, creamos el sitio web.\n\nLuego, en 2013, nos fusionamos con \"Last Bullet Gaming\", convirtiéndonos en la plataforma número uno de modding para PAYDAY.\n\nA medida que continuaba el desarrollo, en 2016, cambiamos nuestro nombre a \"ModWorkshop\". Queríamos ampliar nuestro rango de posibilidades a otros juego, en lugar de limitarnos exclusivamente a la franquicia PAYDAY.\n¡A día de hoy tenemos mods para múltiples juegos como PAYDAY 2, PAYDAY: The Heist, Noita, Crime Boss y más!\nJuntos, hemos reunido a modders, fans y recién llegados al campo del modding para que se comuniquen entre sí y debatan juntos.\n\nNos encantan los mods, y si deseas alojar algún mod para cualquier juego, ¡no dudes en hacerlo!",
     "about_mws_values_desc": "**🔍 Modding de código abierto** - Creemos que el modding debería ser de código abierto, no cerrado. No tiene sentido hacer mods si estos no están disponibles para que otros los experimenten.\nAdicionalmente, hay [planes](https://modworkshop.net/thread/9025) para liberar el código del sitio web.\n\n**😉 No se requiren cuentas** - Descargar mods no debería requerir una cuenta.\n**🚀 Sin limitaciones** - Deberías poder descargar mods a toda velocidad sin ningún tipo de limitación artificial.\n\n**🫂 Manejado por la comundad**- El sitio está abierto para que la comunidad contribuya con moderadores voluntarios que ayuden en su tiempo libre.\n\n**🕵️ Privacidad** - No vendemos los datos de nuestros usuarios ni recopilamos información innecesaria.",
     "our_team": "Nuestro equipo",
     "more": "Más",
@@ -656,5 +656,5 @@
     "thread_closed": "Este hilo ha sido cerrado.",
     "open_threads": "Hilos abiertos",
     "closed_threads": "Hilos cerrados",
-    "delete_file_desc": "This will delete the file. You will not be able to recover it!"
+    "delete_file_desc": "Esto eliminará el archivo. ¡No podrás recuperarlo!"
 }
