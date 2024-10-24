@@ -174,7 +174,6 @@
     "add": "Add",
     "color": "Color",
     "stop": "Stop",
-    "file_size": "size",
     "file_uploader_drop": "Drop files here or click the area to upload files",
     "uploading": "Uploading: {0}%",
     "file_name_too_large": "File {name} is too large!",
