@@ -409,6 +409,7 @@
     "content_page_info": "\nHere you can customize the content of the site.\nAny blocked content will not display anywhere unless entered explictly.\nFollowed content is displayed on the home page.",
     "following": "Following",
     "blocking": "Blocking",
+    "followed": "Followed",
     "followed_mods": "Followed Mods",
     "liked_mods": "Liked Mods",
     "followed_games": "Followed Games",
