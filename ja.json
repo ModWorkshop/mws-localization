@@ -654,5 +654,6 @@
     "grid_mode": "Grid Mode",
     "move": "Move",
     "api": "API",
-    "user_posted_in_category": "{user} {timeAgo} in {place}"
+    "user_posted_in_category": "{user} {timeAgo} in {place}",
+    "followed": "Followed"
 }
