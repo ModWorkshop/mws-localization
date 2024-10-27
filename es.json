@@ -661,5 +661,6 @@
     "developer_mode": "Modo desarrollador",
     "developer_mode_help": "Habilita algunas funciones para desarrolladores. Por ejemplo, poder probar un Mod Manager antes de que se agregue de forma global.",
     "grid_mode": "Modo de cuadrícula",
-    "api": "API"
+    "api": "API",
+    "user_posted_in_category": "{user} {timeAgo} in {place}"
 }
