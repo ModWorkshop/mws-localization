@@ -649,7 +649,7 @@
     "clear": "Borrar",
     "user_replied_time_ago": "{user} respondió {timeAgo}",
     "user_posted_in_forum_category": "{user} publicó {timeAgo} en {place}",
-    "user_posted": "{user} publicó {timeAgo}",
+    "user_posted": "{user} {timeAgo}",
     "open": "Abrir",
     "can_close_threads": "Permitir cerrar hilos",
     "can_close_threads_help": "Permite que los hilos puedan ser cerrados. Útil para solicitudes de funciones o problemas.",
@@ -661,5 +661,6 @@
     "developer_mode": "Modo desarrollador",
     "developer_mode_help": "Habilita algunas funciones para desarrolladores. Por ejemplo, poder probar un Mod Manager antes de que se agregue de forma global.",
     "grid_mode": "Modo de cuadrícula",
-    "api": "API"
+    "api": "API",
+    "user_posted_in_category": "{user} {timeAgo} en {place}"
 }

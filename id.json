@@ -653,5 +653,6 @@
     "developer_mode": "Developer Mode",
     "developer_mode_help": "Enables some features for developers. For example testing mod managers before they are added globally.",
     "move": "Move",
-    "api": "API"
+    "api": "API",
+    "user_posted_in_category": "{user} {timeAgo} in {place}"
 }
