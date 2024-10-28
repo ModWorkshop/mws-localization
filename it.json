@@ -663,5 +663,6 @@
     "developer_mode_help": "Abilita delle funzionalità per gli sviluppatori. Ad esempio, testare i Mod Manager prima pubblicarli a livello globale.",
     "grid_mode": "Modalità Griglia",
     "api": "API",
-    "user_posted_in_category": "{user} {timeAgo} in {place}"
+    "user_posted_in_category": "{user} {timeAgo} in {place}",
+    "followed": "Followed"
 }
