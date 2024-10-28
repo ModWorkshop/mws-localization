@@ -385,7 +385,7 @@
     "unlink": "Scollega",
     "unlink_warn": "Questa azione scollegherà l'account dall'account ModWorkshop e non potrai più usarlo per effettuare l'accesso!",
     "content_page_info": "\nQui puoi personalizzare tutti i contenuti del sito.\nTutti i contenuti bloccati non verranno mostrati a meno delle sezioni esplicite.\nContenuti seguiti verranno mostrati nella pagina principale.",
-    "following": "Seguito",
+    "following": "Seguendo",
     "blocking": "Bloccato",
     "followed_mods": "Mod Seguite",
     "followed_games": "Giochi Seguiti",
@@ -650,7 +650,7 @@
     "clear": "Cancella",
     "user_replied_time_ago": "{user} ha risposto {timeAgo}",
     "user_posted_in_forum_category": "{user} ha pubblicato {timeAgo} in {place}",
-    "user_posted": "{user} ha pubblicato {timeAgo}",
+    "user_posted": "{user} {timeAgo}",
     "open": "Apri",
     "can_close_threads": "Può Chiudere le Discussioni",
     "can_close_threads_help": "Permette alle discussioni di essere chiuse. Utile per le richieste di funzionalità o per problemi.",
@@ -664,5 +664,5 @@
     "grid_mode": "Modalità Griglia",
     "api": "API",
     "user_posted_in_category": "{user} {timeAgo} in {place}",
-    "followed": "Followed"
+    "followed": "Seguito"
 }
