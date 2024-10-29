@@ -664,5 +664,6 @@
     "grid_mode": "Modalità Griglia",
     "api": "API",
     "user_posted_in_category": "{user} {timeAgo} in {place}",
-    "followed": "Seguito"
+    "followed": "Seguito",
+    "split_mode_tab": "Split Mode"
 }
