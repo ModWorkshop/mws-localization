@@ -646,7 +646,7 @@
     "manager_download_url_desc": "URL for handling download & installation of files of mods. Currently available parameters: :mod_id, :file_id, :game_id, :manager_name and :game_short_name.",
     "status": "Status",
     "file_waiting": "Esperando pelo envio",
-    "clear": "Clear",
+    "clear": "Limpar",
     "user_replied_time_ago": "{user} Replied {timeAgo}",
     "user_posted_in_forum_category": "{user} Posted {timeAgo} in {place}",
     "user_posted": "{user} Posted {timeAgo}",
