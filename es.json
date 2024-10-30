@@ -587,7 +587,7 @@
     "mod_game_count": "{n} mod(s) de {game}",
     "approval_only": "Sólo aprobación",
     "admin_page_desc": "La página de administración contiene algunas herramientas para configurar y moderar el sitio.",
-    "mod_managers": "Mod Managers",
+    "mod_managers": "Administrador de Mods",
     "mod_manager_install": "Instalación con Mod Manager",
     "default_mod_manager": "Mod Manager predeterminado",
     "default_mod_manager_desc": "El Mod Manager predeterminado para el juego debe ser uno que tenga la mayoría; de lo contrario, se elegirá el primero.",
