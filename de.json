@@ -105,7 +105,7 @@
     "login": "Login",
     "views": "Aufrufe",
     "danger_zone": "Gefahrenzone",
-    "nothing_found": "Nichts zu zeigen :/",
+    "nothing_found": "Nichts gefunden :/",
     "games": "Spiele",
     "news": "Neuigkeiten",
     "forum": "Forum",
@@ -663,5 +663,6 @@
     "developer_mode_help": "Enables some features for developers. For example testing mod managers before they are added globally.",
     "api": "API",
     "user_posted_in_category": "{user} {timeAgo} in {place}",
-    "followed": "Followed"
+    "followed": "Followed",
+    "split_mode_tab": "Split Mode"
 }
