@@ -665,5 +665,6 @@
     "api": "API",
     "user_posted_in_category": "{user} {timeAgo} in {place}",
     "followed": "Seguito",
-    "split_mode_tab": "Modalità Divisa"
+    "split_mode_tab": "Modalità Divisa",
+    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)"
 }

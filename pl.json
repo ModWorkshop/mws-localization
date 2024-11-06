@@ -664,5 +664,6 @@
     "api": "API",
     "user_posted_in_category": "{user} {timeAgo} w {place}",
     "followed": "Obserwowani",
-    "split_mode_tab": "Tryb Podzielony"
+    "split_mode_tab": "Tryb Podzielony",
+    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)"
 }

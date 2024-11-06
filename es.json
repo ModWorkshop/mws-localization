@@ -664,5 +664,6 @@
     "api": "API",
     "user_posted_in_category": "{user} {timeAgo} en {place}",
     "followed": "Seguidos",
-    "split_mode_tab": "Modo dividido"
+    "split_mode_tab": "Modo dividido",
+    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)"
 }
