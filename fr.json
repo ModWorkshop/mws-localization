@@ -665,5 +665,6 @@
     "user_posted_in_category": "{user} {timeAgo} in {place}",
     "followed": "Suivi",
     "split_mode_tab": "Mode Partagé",
-    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)"
+    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
+    "just_now": "just now"
 }
