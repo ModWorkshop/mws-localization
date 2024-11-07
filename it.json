@@ -362,7 +362,7 @@
     "show_tag": "Mostra Tag",
     "show_tag_desc": "Il tag apparirà vicino al tuo nome. Viene principalmente utilizzato da moderatori o sostenitori.",
     "donation": "URL per Donare",
-    "donation_desc": "Supporta PayPal, Ko-Fi e Buy Me a Coffee. Verrà mostrato nel tuo profilo e sulle pagine delle tue mod.",
+    "donation_desc": "Supporta PayPal, Ko-Fi GitHub Sponsors, e Buy Me a Coffee. Verrà mostrato nel tuo profilo e sulle pagine delle tue mod.",
     "custom_title": "Titolo Personalizzato",
     "custom_color": "Colore Personalizzato",
     "custom_color_desc": "Cambia il tuo colore in quello che preferisci. Solo Sostenitori.",

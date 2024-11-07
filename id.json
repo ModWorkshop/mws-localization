@@ -371,7 +371,7 @@
     "show_tag": "Tunjukkan Penanda",
     "show_tag_desc": "Tanda akan muncul di sebelah nama pengguna. Biasa digunakan untuk moderator dan pendukung.",
     "donation": "URL Donasi",
-    "donation_desc": "Mendukung PayPal, Ko-Fi, dan Buy Me a Coffee. Muncul di profil dan halaman mod.",
+    "donation_desc": "Mendukung PayPal, Ko-Fi, GitHub Sponsors, dan Buy Me a Coffee. Muncul di profil dan halaman mod.",
     "custom_title": "Judul kustom",
     "custom_color": "Warna kustom",
     "custom_color_desc": "Memperbolehkan Anda mengubah warna menjadi warna kustom. Hanya untuk pendukung.",

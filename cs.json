@@ -362,7 +362,7 @@
     "show_tag": "Ukázat Štítek",
     "show_tag_desc": "Štítek se zobrazí poblíž Vašeho jména. Hlavně použité pro moderátory a příznivce.",
     "donation": "URL Pro Dary",
-    "donation_desc": "Podporuje PayPal, Ko-Fi, a Buy Me a Coffee. Ukáže se na Vašem profilu a stránkách módů.",
+    "donation_desc": "Podporuje PayPal, Ko-Fi, GitHub Sponsors, a Buy Me a Coffee. Ukáže se na Vašem profilu a stránkách módů.",
     "custom_title": "Vlastní Název",
     "custom_color": "Vlastní Barva",
     "custom_color_desc": "Nechá Vás změnit Vaší barvu na Vámi vybranou. Pouze pro příznivce.",

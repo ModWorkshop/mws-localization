@@ -362,7 +362,7 @@
     "show_tag": "显示标签",
     "show_tag_desc": "此标签将显示在你的用户名附近。主要用于显示模块管理员或支持者。",
     "donation": "赞助网址",
-    "donation_desc": "支持以PayPal（贝宝）, Ko-Fi,和 Buy Me a Coffee接受赞助。这将显示在你的个人资料页面。",
+    "donation_desc": "支持以PayPal（贝宝）, Ko-Fi, GitHub Sponsors, 和 Buy Me a Coffee接受赞助。这将显示在你的个人资料页面。",
     "custom_title": "自定义标题",
     "custom_color": "自定义颜色",
     "custom_color_desc": "让你可以把颜色改成你喜欢的颜色。仅限赞助者。",

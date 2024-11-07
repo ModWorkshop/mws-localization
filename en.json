@@ -385,7 +385,7 @@
     "show_tag": "Show Tag",
     "show_tag_desc": "The tag appears near your name. Mostly used for moderators or supporters.",
     "donation": "Donation URL",
-    "donation_desc": "Supports PayPal, Ko-Fi, and Buy Me a Coffee. Shows in your profile and mod pages.",
+    "donation_desc": "Supports PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee. Shows in your profile and mod pages.",
     "custom_title": "Custom Title",
     "custom_color": "Custom Color",
     "custom_color_desc": "Lets you change your color to a custom one. Supporters Only.",

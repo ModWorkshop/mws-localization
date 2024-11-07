@@ -362,7 +362,7 @@
     "show_tag": "Mostrar etiqueta",
     "show_tag_desc": "Esta etiqueta aparece junto a tu nombre. Principalmente utilizada por moderadores y donadores.",
     "donation": "Enlace para donaciones",
-    "donation_desc": "Soporta PayPal, Ko-Fi, y Buy Me a Coffee. Se mostrará en tu perfil y en las páginas de tus mods.",
+    "donation_desc": "Soporta PayPal, Ko-Fi, GitHub Sponsors, y Buy Me a Coffee. Se mostrará en tu perfil y en las páginas de tus mods.",
     "custom_title": "Título personalizado",
     "custom_color": "Color personalizado",
     "custom_color_desc": "Cambiemos tu color a uno personalizado. Sólo para donadores.",

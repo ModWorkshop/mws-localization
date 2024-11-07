@@ -377,7 +377,7 @@
     "show_tag": "タグの表示",
     "show_tag_desc": "タグはあなたの名前の近くに表示されます。 主にモデレーターやサポーターに対して使用されます。",
     "donation": "寄付へのURL",
-    "donation_desc": "PayPal、Ko-Fi、Buy Me a Coffee をサポートしています。 プロフィールとModページに表示されます。",
+    "donation_desc": "PayPal、Ko-Fi、GitHub Sponsors、Buy Me a Coffee をサポートしています。 プロフィールとModページに表示されます。",
     "custom_title": "タイトルをカスタマイズ",
     "custom_color_desc": "カスタムカラーを設定してみましょう(サポーター限定)。",
     "private_profile": "非公開プロフィール",

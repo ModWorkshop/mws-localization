@@ -362,7 +362,7 @@
     "show_tag": "Etiketi Göster",
     "show_tag_desc": "Etiket, adınızın yanında görünür. Çoğunlukla moderatörler veya destekçiler için kullanılır.",
     "donation": "Bağış URL'si",
-    "donation_desc": "PayPal, Ko-Fi, ve Buy Me a Coffee'i destekler. Profilinde ve mod sayfalarında gözükür.",
+    "donation_desc": "PayPal, Ko-Fi, GitHub Sponsors, ve Buy Me a Coffee'i destekler. Profilinde ve mod sayfalarında gözükür.",
     "custom_title": "Özel Başlık",
     "custom_color": "Özel Renk",
     "custom_color_desc": "Renginizi özel bir renge değiştirelim. Sadece Destekleyenler.",
