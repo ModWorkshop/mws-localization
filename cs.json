@@ -665,5 +665,6 @@
     "user_posted_in_category": "{user} {timeAgo} v {place}",
     "followed": "Sledovaný",
     "split_mode_tab": "Split Mode",
-    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)"
+    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
+    "just_now": "just now"
 }
