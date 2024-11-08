@@ -588,7 +588,7 @@
     "approval_only": "Sur Approbation Seulement",
     "mod_managers": "Managers de Mods",
     "mod_manager_install": "Installation Par Mod Manager",
-    "default_mod_manager": "Default Mod Manager",
+    "default_mod_manager": "Manager De Mods Par Défaut",
     "applied_global_mod_managers": "Applied Global Mod Managers",
     "applied_global_mod_managers_desc": "Global mod managers that should be applied to the game (as they are not automatically applied).",
     "disable_mod_managers": "Disable Mod Managers",
@@ -665,6 +665,6 @@
     "user_posted_in_category": "{user} {timeAgo} in {place}",
     "followed": "Suivi",
     "split_mode_tab": "Mode Partagé",
-    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
+    "uploading_detailed": "{time} restant - {current} de {total} ({speed}/s)",
     "just_now": "just now"
 }
