@@ -666,6 +666,6 @@
     "user_posted_in_category": "{user} {timeAgo} in {place}",
     "followed": "Seguito",
     "split_mode_tab": "Modalità Divisa",
-    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
-    "just_now": "just now"
+    "uploading_detailed": "{time} rimanenti - {current} di {total} ({speed}/s)",
+    "just_now": "Adesso"
 }
