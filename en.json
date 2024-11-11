@@ -23,6 +23,7 @@
     "users": "Users",
     "report": "Report",
     "report_desc": "\nIf you think this {0} is breaking our rules, you can report that to us and a moderator will check it out as soon as possible.\nMass or false flagging will not be tolerated!\n",
+    "report_sent": "Report has been sent!",
     "submit": "Submit",
     "images": "Images",
     "images_help": "Recommended size of 600x300 pixels for thumbnails and 1550x250 pixels for banners.",
