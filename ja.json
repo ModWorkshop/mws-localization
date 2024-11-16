@@ -658,5 +658,6 @@
     "followed": "Followed",
     "split_mode_tab": "Split Mode",
     "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
-    "just_now": "just now"
+    "just_now": "just now",
+    "report_sent": "Report has been sent!"
 }

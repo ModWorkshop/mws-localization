@@ -666,5 +666,6 @@
     "followed": "Seguidos",
     "split_mode_tab": "Modo dividido",
     "uploading_detailed": "Quedan {time} - {current} de {total} ({speed}/s)",
-    "just_now": "hace un momento"
+    "just_now": "hace un momento",
+    "report_sent": "Report has been sent!"
 }

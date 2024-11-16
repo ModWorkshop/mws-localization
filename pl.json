@@ -666,5 +666,6 @@
     "followed": "Obserwowani",
     "split_mode_tab": "Tryb Podzielony",
     "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
-    "just_now": "just now"
+    "just_now": "just now",
+    "report_sent": "Report has been sent!"
 }

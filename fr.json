@@ -666,5 +666,6 @@
     "followed": "Suivi",
     "split_mode_tab": "Mode Partagé",
     "uploading_detailed": "{time} restant - {current} de {total} ({speed}/s)",
-    "just_now": "just now"
+    "just_now": "just now",
+    "report_sent": "Report has been sent!"
 }

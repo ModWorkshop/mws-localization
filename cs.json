@@ -666,5 +666,6 @@
     "followed": "Sledovaný",
     "split_mode_tab": "Režim Rozdělení",
     "uploading_detailed": "zbývá {time} - {current} z {total} ({speed}/s)",
-    "just_now": "právě teď"
+    "just_now": "právě teď",
+    "report_sent": "Report has been sent!"
 }

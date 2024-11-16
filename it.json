@@ -667,5 +667,6 @@
     "followed": "Seguito",
     "split_mode_tab": "Modalità Divisa",
     "uploading_detailed": "{time} rimanenti - {current} di {total} ({speed}/s)",
-    "just_now": "Adesso"
+    "just_now": "Adesso",
+    "report_sent": "Report has been sent!"
 }
