@@ -40,7 +40,7 @@
     "game_category": "Gra/Kategoria",
     "likes": "Polubienia",
     "load_more": "Wczytaj Więcej",
-    "search": "Szukaj...",
+    "search": "Szukaj",
     "user": "Użytkownik",
     "mod": "Mod",
     "all": "Wszystko",
@@ -665,7 +665,7 @@
     "user_posted_in_category": "{user} {timeAgo} w {place}",
     "followed": "Obserwowani",
     "split_mode_tab": "Tryb Podzielony",
-    "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
-    "just_now": "just now",
-    "report_sent": "Report has been sent!"
+    "uploading_detailed": "{time} pozostało - {current} z {total} ({speed}/s)",
+    "just_now": "przed chwilą",
+    "report_sent": "Wysłano Zgłoszenie!"
 }
